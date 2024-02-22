@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2- EC2/2.1- EC2.md",
-                "mode": "preview",
+                "file": "notes/4- ELB/4.3- NLB.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2- EC2/2.1- EC2.md",
+                "file": "notes/4- ELB/4.3- NLB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2- EC2/2.1- EC2.md",
+                "file": "notes/4- ELB/4.3- NLB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/2- EC2/2.1- EC2.md"
+                "file": "notes/4- ELB/4.3- NLB.md"
               }
             }
           }
@@ -148,12 +148,16 @@
   },
   "active": "6e679ea0a5d77818",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "notes/2- EC2/2.1- EC2.md",
+    "notes/0- Misc/0.1- Public vs Private vs ELastic IP.md",
+    "notes/4- ELB/4.3- NLB.md",
+    "notes/4- ELB/4.2- ALB.md",
+    "notes/4- ELB/4.1- ELB.md",
     "notes/2- EC2/2.4- Security Groups.md",
+    "notes/2- EC2/2.7- EC2 Spot Requests + Spot Fleet.md",
+    "notes/2- EC2/2.1- EC2.md",
+    "Untitled.canvas",
     "notes/2- EC2/2.2- EC2 User Data.md",
     "notes/1- IAM and Permissions/1.6- Other IAM tools.md",
-    "notes/4- ELB/4.1- ELB.md",
     "notes/1- IAM and Permissions/1.4- Access Key & CLI & CloudShell.md",
     "notes/1- IAM and Permissions/1.3- Password and MFA.md",
     "notes/1- IAM and Permissions/1.2- IAM Policies.md",
@@ -161,7 +165,6 @@
     "README.md",
     "notes/1- IAM and Permissions/1.7- Best Practices.md",
     "notes/1- IAM and Permissions/1.5- IAM Roles.md",
-    "notes/0- Misc/0.1- Public vs Private vs ELastic IP.md",
     "Pasted image 20231016235614.png",
     "workshop-notes/Untitled.md",
     "workshop-notes/5- S3.md",
@@ -174,8 +177,6 @@
     "notes/3- EC2 Storage/3.8- EBS Hard Disk Drives.md",
     "notes/3- EC2 Storage/3.7- EBS Provisions IOPS SSD.md",
     "notes/3- EC2 Storage/3.6- EBS - General Purpose SSD.md",
-    "notes/3- EC2 Storage/3.5- EBS Volume Types.md",
-    "notes/3- EC2 Storage/3.3- EBS Snapshot.md",
     "notes/4- ELB",
     "notes/3- EC2 Storage",
     "notes/2- EC2",
