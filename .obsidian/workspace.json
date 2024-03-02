@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/4- ELB/4.3- NLB.md",
+                "file": "notes/5- ASG/5.1- ASG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/4- ELB/4.3- NLB.md",
+                "file": "notes/5- ASG/5.1- ASG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/4- ELB/4.3- NLB.md",
+                "file": "notes/5- ASG/5.1- ASG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/4- ELB/4.3- NLB.md"
+                "file": "notes/5- ASG/5.1- ASG.md"
               }
             }
           }
@@ -148,8 +148,25 @@
   },
   "active": "6e679ea0a5d77818",
   "lastOpenFiles": [
-    "notes/0- Misc/0.1- Public vs Private vs ELastic IP.md",
+    "notes/5- ASG/5.3- Scaling Policy.md",
+    "notes/5- ASG/5.4- ASG Scaling Cooldown.md",
+    "workshop-notes/3- VPC.md",
+    "workshop-notes/2-AWS IAM.md",
+    "workshop-notes/1- AWS Locations.md",
+    "notes/5- ASG/5.2- ASG + CloudWatch Alarm.md",
+    "notes/5- ASG/5.1- ASG.md",
+    "notes/4- ELB/Untitled.md",
+    "notes/5- ASG",
+    "notes/4- ELB/4.8- Connection Draining.md",
+    "notes/4- ELB/4.7- SSL Certificates.md",
+    "Pasted image 20240222233835.png",
+    "notes/4- ELB/4.6- Cross Zone Load Balancing.md",
+    "Pasted image 20240222232837.png",
+    "notes/4- ELB/4.5- ELB Sticky Sessions.md",
+    "notes/4- ELB/4.4- GWLB.md",
+    "Pasted image 20240222231300.png",
     "notes/4- ELB/4.3- NLB.md",
+    "notes/0- Misc/0.1- Public vs Private vs ELastic IP.md",
     "notes/4- ELB/4.2- ALB.md",
     "notes/4- ELB/4.1- ELB.md",
     "notes/2- EC2/2.4- Security Groups.md",
@@ -162,21 +179,8 @@
     "notes/1- IAM and Permissions/1.3- Password and MFA.md",
     "notes/1- IAM and Permissions/1.2- IAM Policies.md",
     "notes/1- IAM and Permissions/1.1- Users and Group.md",
-    "README.md",
-    "notes/1- IAM and Permissions/1.7- Best Practices.md",
-    "notes/1- IAM and Permissions/1.5- IAM Roles.md",
     "Pasted image 20231016235614.png",
-    "workshop-notes/Untitled.md",
-    "workshop-notes/5- S3.md",
-    "workshop-notes/4- EBS.md",
-    "workshop-notes/3- VPC.md",
-    "workshop-notes/2-AWS IAM.md",
-    "workshop-notes/1- AWS Locations.md",
     "workshop-notes",
-    "notes/3- EC2 Storage/3.9- EBS Multi-Attach.md",
-    "notes/3- EC2 Storage/3.8- EBS Hard Disk Drives.md",
-    "notes/3- EC2 Storage/3.7- EBS Provisions IOPS SSD.md",
-    "notes/3- EC2 Storage/3.6- EBS - General Purpose SSD.md",
     "notes/4- ELB",
     "notes/3- EC2 Storage",
     "notes/2- EC2",
@@ -188,9 +192,6 @@
     "Pasted image 20231022213534.png",
     "Pasted image 20231022211841.png",
     "Pasted image 20231022202304.png",
-    "Pasted image 20231022200713.png",
-    "Pasted image 20231016235624.png",
-    "Pasted image 20231016235601.png",
-    "Pasted image 20231015165520.png"
+    "Pasted image 20231022200713.png"
   ]
 }
