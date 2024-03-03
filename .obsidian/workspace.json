@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/5- ASG/5.1- ASG.md",
+                "file": "notes/6- RDS/6.15- RDS Snapshot Restore.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/5- ASG/5.1- ASG.md",
+                "file": "notes/6- RDS/6.15- RDS Snapshot Restore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/5- ASG/5.1- ASG.md",
+                "file": "notes/6- RDS/6.15- RDS Snapshot Restore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/5- ASG/5.1- ASG.md"
+                "file": "notes/6- RDS/6.15- RDS Snapshot Restore.md"
               }
             }
           }
@@ -148,37 +148,44 @@
   },
   "active": "6e679ea0a5d77818",
   "lastOpenFiles": [
+    "notes/6- RDS/6.14- Aurora Backups.md",
+    "notes/6- RDS/6.15- RDS Snapshot Restore.md",
+    "notes/6- RDS/6.13- RDS Backups.md",
+    "notes/6- RDS/6.12- Aurora Machine Learning.md",
+    "notes/6- RDS/6.11- Global Aurora.md",
+    "notes/6- RDS/6.10- Aurora Serverless.md",
+    "notes/6- RDS/6.1- RDS intro.md",
+    "notes/6- RDS/6.5- RDS Multi AZ.md",
+    "notes/6- RDS/6.8- Aurora Cluster.md",
+    "Pasted image 20240303201336.png",
+    "notes/6- RDS/6.9- RDS Aurora Features.md",
+    "Pasted image 20240303201053.png",
+    "notes/6- RDS/6.7- Amazon Aurora.md",
+    "Pasted image 20240303194523.png",
+    "notes/6- RDS/6.6-  RDS Custom.md",
+    "notes/6- RDS/6.4- RDS Read Replica Cost.md",
+    "notes/6- RDS/6.3- RDS Read Replicas.md",
+    "notes/6- RDS/6.2- RDS Storage Auto Scaling.md",
+    "Pasted image 20240302195722.png",
+    "README.md",
+    "Pasted image 20240302195606.png",
+    "Pasted image 20240302194637.png",
+    "notes/5- ASG/5.1- ASG.md",
+    "notes/6- RDS",
+    "notes/Untitled.md",
     "notes/5- ASG/5.3- Scaling Policy.md",
     "notes/5- ASG/5.4- ASG Scaling Cooldown.md",
     "workshop-notes/3- VPC.md",
     "workshop-notes/2-AWS IAM.md",
     "workshop-notes/1- AWS Locations.md",
     "notes/5- ASG/5.2- ASG + CloudWatch Alarm.md",
-    "notes/5- ASG/5.1- ASG.md",
     "notes/4- ELB/Untitled.md",
     "notes/5- ASG",
     "notes/4- ELB/4.8- Connection Draining.md",
-    "notes/4- ELB/4.7- SSL Certificates.md",
     "Pasted image 20240222233835.png",
-    "notes/4- ELB/4.6- Cross Zone Load Balancing.md",
     "Pasted image 20240222232837.png",
-    "notes/4- ELB/4.5- ELB Sticky Sessions.md",
-    "notes/4- ELB/4.4- GWLB.md",
     "Pasted image 20240222231300.png",
-    "notes/4- ELB/4.3- NLB.md",
-    "notes/0- Misc/0.1- Public vs Private vs ELastic IP.md",
-    "notes/4- ELB/4.2- ALB.md",
-    "notes/4- ELB/4.1- ELB.md",
-    "notes/2- EC2/2.4- Security Groups.md",
-    "notes/2- EC2/2.7- EC2 Spot Requests + Spot Fleet.md",
-    "notes/2- EC2/2.1- EC2.md",
     "Untitled.canvas",
-    "notes/2- EC2/2.2- EC2 User Data.md",
-    "notes/1- IAM and Permissions/1.6- Other IAM tools.md",
-    "notes/1- IAM and Permissions/1.4- Access Key & CLI & CloudShell.md",
-    "notes/1- IAM and Permissions/1.3- Password and MFA.md",
-    "notes/1- IAM and Permissions/1.2- IAM Policies.md",
-    "notes/1- IAM and Permissions/1.1- Users and Group.md",
     "Pasted image 20231016235614.png",
     "workshop-notes",
     "notes/4- ELB",
@@ -186,12 +193,6 @@
     "notes/2- EC2",
     "notes/1- IAM and Permissions",
     "notes/0- Misc",
-    "notes",
-    "Pasted image 20231109181654.png",
-    "Pasted image 20231109181228.png",
-    "Pasted image 20231022213534.png",
-    "Pasted image 20231022211841.png",
-    "Pasted image 20231022202304.png",
-    "Pasted image 20231022200713.png"
+    "notes"
   ]
 }
