@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/08- Route 53/08.01- Route 53.md",
+                "file": "notes/10- S3/09.07- S3 Lifecycle Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 387.5
   },
   "right": {
     "id": "5e696f9cfa3a3c16",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/08- Route 53/08.01- Route 53.md",
+                "file": "notes/10- S3/09.07- S3 Lifecycle Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/08- Route 53/08.01- Route 53.md",
+                "file": "notes/10- S3/09.07- S3 Lifecycle Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/08- Route 53/08.01- Route 53.md"
+                "file": "notes/10- S3/09.07- S3 Lifecycle Policies.md"
               }
             }
           }
@@ -148,51 +148,52 @@
   },
   "active": "6e679ea0a5d77818",
   "lastOpenFiles": [
+    "notes/10- S3/09.06- S3 Storage Classes.md",
+    "notes/10- S3/09.07- S3 Lifecycle Policies.md",
+    "notes/10- S3/09.05- S3 Replication.md",
+    "notes/10- S3/09.04- S3 Versioning.md",
+    "notes/10- S3/09.03- Bucket Policy.md",
+    "notes/10- S3/09.04- S3 Static Website Hosting.md",
+    "notes/10- S3/09.02- S3 Security Summary.md",
+    "notes/10- S3/09.01- S3.md",
+    "notes/09- Beanstalk/09.01- AWS Beanstalk.md",
+    "notes/10- S3",
+    "notes/08- Route 53/08.13 - Multi - Value Routing.md",
+    "notes/09- Beanstalk",
+    "notes/08- Route 53/08.12 - I.P. Based Routing.md",
+    "notes/08- Route 53/08.11 - GeoProximity Routing.md",
+    "notes/08- Route 53/08.10 - Geolocation Routing.md",
+    "notes/08- Route 53/08.09 - Failover Routing.md",
+    "notes/08- Route 53/08.08- Weighted Routing.md",
+    "Pasted image 20240412180917.png",
+    "notes/08- Route 53/08.06- Routing Policy.md",
+    "notes/08- Route 53/08.05 - Health Checks.md",
+    "notes/08- Route 53/08.07- Latency Based Routing.md",
+    "Pasted image 20240412174924.png",
+    "Pasted image 20240412173948.png",
+    "Pasted image 20240412173917.png",
     "notes/08- Route 53/08.04- Record Alias.md",
-    "Pasted image 20240307000104.png",
-    "notes/08- Route 53/08.02- Record Types.md",
     "notes/08- Route 53/08.03- Hosted Zones.md",
+    "notes/08- Route 53/08.02- Record Types.md",
     "notes/08- Route 53/08.01- Route 53.md",
+    "Pasted image 20240307000104.png",
     "README.md",
     "notes/08- Route 53",
     "workshop-notes/Untitled",
     "notes/6- RDS/6.15- RDS Snapshot Restore.md",
     "notes/6- RDS/6.14- Aurora Backups.md",
     "notes/6- RDS/6.13- RDS Backups.md",
-    "notes/6- RDS/6.12- Aurora Machine Learning.md",
-    "notes/6- RDS/6.11- Global Aurora.md",
-    "notes/6- RDS/6.10- Aurora Serverless.md",
-    "notes/6- RDS/6.9- RDS Aurora Features.md",
-    "notes/6- RDS/6.8- Aurora Cluster.md",
-    "notes/6- RDS/6.7- Amazon Aurora.md",
-    "notes/6- RDS/6.6-  RDS Custom.md",
-    "notes/6- RDS/6.5- RDS Multi AZ.md",
-    "notes/6- RDS/6.18- RDS Proxy.md",
-    "notes/6- RDS/6.17- RDS Security.md",
-    "notes/6- RDS/6.16- RDS Encryption.md",
-    "notes/07- ElasticCache/7.02- Cache Security.md",
-    "notes/07- ElasticCache/7.01- AWS ElasticCache.md",
     "notes/07- ElasticCache",
-    "Untitled.md",
-    "notes/6- RDS/6.1- RDS intro.md",
     "Pasted image 20240303201336.png",
     "Pasted image 20240303201053.png",
     "Pasted image 20240303194523.png",
-    "notes/6- RDS/6.4- RDS Read Replica Cost.md",
-    "notes/6- RDS/6.3- RDS Read Replicas.md",
     "Pasted image 20240302195722.png",
     "Pasted image 20240302195606.png",
-    "Pasted image 20240302194637.png",
     "notes/6- RDS",
     "notes/5- ASG",
-    "Pasted image 20240222233835.png",
-    "Pasted image 20240222232837.png",
-    "Pasted image 20240222231300.png",
     "Untitled.canvas",
     "workshop-notes",
     "notes/4- ELB",
-    "notes/3- EC2 Storage",
-    "notes/2- EC2",
-    "notes/1- IAM and Permissions"
+    "notes/3- EC2 Storage"
   ]
 }
