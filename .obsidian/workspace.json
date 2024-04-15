@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/10- S3/09.07- S3 Lifecycle Policies.md",
+                "file": "notes/10- S3/10.11- S3 Storage Lens.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/10- S3/09.07- S3 Lifecycle Policies.md",
+                "file": "notes/10- S3/10.11- S3 Storage Lens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/10- S3/09.07- S3 Lifecycle Policies.md",
+                "file": "notes/10- S3/10.11- S3 Storage Lens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/10- S3/09.07- S3 Lifecycle Policies.md"
+                "file": "notes/10- S3/10.11- S3 Storage Lens.md"
               }
             }
           }
@@ -146,16 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e679ea0a5d77818",
+  "active": "11a40ab14882c66c",
   "lastOpenFiles": [
-    "notes/10- S3/09.06- S3 Storage Classes.md",
-    "notes/10- S3/09.07- S3 Lifecycle Policies.md",
-    "notes/10- S3/09.05- S3 Replication.md",
-    "notes/10- S3/09.04- S3 Versioning.md",
-    "notes/10- S3/09.03- Bucket Policy.md",
+    "notes/10- S3/10.13- S3 CORS.md",
+    "notes/10- S3/10.08- S3 features.md",
+    "notes/10- S3/10.09- S3 Event Notification.md",
+    "notes/10- S3/10.10- S3 Performance.md",
+    "notes/10- S3/10.12- S3 Encryption.md",
+    "notes/10- S3/10.06- S3 Storage Classes.md",
+    "notes/10- S3/10.07- S3 Lifecycle Rules.md",
+    "notes/10- S3/10.05- S3 Replication.md",
+    "notes/10- S3/10.04- S3 Versioning.md",
+    "notes/10- S3/10.03- Bucket Policy.md",
+    "notes/10- S3/10.02- S3 Security Summary.md",
+    "notes/10- S3/10.01- S3.md",
+    "Pasted image 20240415175622.png",
+    "Pasted image 20240415175046.png",
+    "Pasted image 20240415165005.png",
+    "notes/10- S3/10.11- S3 Storage Lens.md",
+    "Pasted image 20240415154933.png",
+    "Pasted image 20240415154245.png",
+    "README.md",
+    "Pasted image 20240415154214.png",
     "notes/10- S3/09.04- S3 Static Website Hosting.md",
-    "notes/10- S3/09.02- S3 Security Summary.md",
-    "notes/10- S3/09.01- S3.md",
     "notes/09- Beanstalk/09.01- AWS Beanstalk.md",
     "notes/10- S3",
     "notes/08- Route 53/08.13 - Multi - Value Routing.md",
@@ -172,23 +185,9 @@
     "Pasted image 20240412174924.png",
     "Pasted image 20240412173948.png",
     "Pasted image 20240412173917.png",
-    "notes/08- Route 53/08.04- Record Alias.md",
-    "notes/08- Route 53/08.03- Hosted Zones.md",
-    "notes/08- Route 53/08.02- Record Types.md",
-    "notes/08- Route 53/08.01- Route 53.md",
-    "Pasted image 20240307000104.png",
-    "README.md",
     "notes/08- Route 53",
     "workshop-notes/Untitled",
-    "notes/6- RDS/6.15- RDS Snapshot Restore.md",
-    "notes/6- RDS/6.14- Aurora Backups.md",
-    "notes/6- RDS/6.13- RDS Backups.md",
     "notes/07- ElasticCache",
-    "Pasted image 20240303201336.png",
-    "Pasted image 20240303201053.png",
-    "Pasted image 20240303194523.png",
-    "Pasted image 20240302195722.png",
-    "Pasted image 20240302195606.png",
     "notes/6- RDS",
     "notes/5- ASG",
     "Untitled.canvas",
