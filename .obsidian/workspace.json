@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/10- S3/10.09- S3 Event Notification.md",
+                "file": "notes/02- EC2/02.01- EC2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/10- S3/10.09- S3 Event Notification.md",
+                "file": "notes/02- EC2/02.01- EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/10- S3/10.09- S3 Event Notification.md",
+                "file": "notes/02- EC2/02.01- EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/10- S3/10.09- S3 Event Notification.md"
+                "file": "notes/02- EC2/02.01- EC2.md"
               }
             }
           }
@@ -148,51 +148,52 @@
   },
   "active": "6e679ea0a5d77818",
   "lastOpenFiles": [
+    "notes/02- EC2/02.02- EC2 User Data.md",
+    "notes/02- EC2/02.03- EC2 Instance Types.md",
+    "notes/02- EC2/02.04- Security Groups.md",
+    "notes/02- EC2/02.05- EC2 IAM Roles.md",
+    "notes/02- EC2/02.06- EC2 Instance Purchasing Options (IMP).md",
+    "notes/02- EC2/02.07- EC2 Spot Requests + Spot Fleet.md",
+    "notes/02- EC2/02.08- EC2 Placement Groups.md",
+    "notes/02- EC2/02.09- EC2 Elastic Network Interface (ENI).md",
+    "notes/02- EC2/02.10- EC2 Hibernate.md",
+    "notes/02- EC2/02.11 - EC2 AMI (Amazon Machine Image).md",
+    "notes/01- IAM and Permissions/01.07- Best Practices.md",
+    "notes/01- IAM and Permissions/01.06- Other IAM tools.md",
+    "notes/01- IAM and Permissions/01.05- IAM Roles.md",
+    "notes/01- IAM and Permissions/01.04- Access Key & CLI & CloudShell.md",
+    "notes/01- IAM and Permissions/01.03- Password and MFA.md",
+    "notes/01- IAM and Permissions/01.02- IAM Policies.md",
+    "notes/01- IAM and Permissions/01.01- Users and Group.md",
+    "notes/11- CloudFront/11.07- CloudFront vs Global Accelerator.md",
+    "notes/11- CloudFront/11.06- Global Accelerator.md",
+    "notes/11- CloudFront/11.05- Cache Invalidation.md",
+    "notes/11- CloudFront/11.04- Price Classes.md",
+    "notes/11- CloudFront/11.03- Geo Restriction.md",
+    "notes/11- CloudFront/11.02- ALB or EC2 as Origin.md",
+    "notes/11- CloudFront/11.01- CloudFront vs S3.md",
+    "notes/10- S3/10.09- S3 Event Notification.md",
+    "notes/11- CloudFront",
     "notes/10- S3/10.12- S3 Encryption.md",
     "img/Pasted image 20240412180917.png",
-    "notes/10- S3/10.13- S3 CORS.md",
     "img/Pasted image 20240303201053.png",
     "img/Pasted image 20231015165520.png",
-    "notes/10- S3/10.08- S3 features.md",
-    "notes/10- S3/10.11- S3 Storage Lens.md",
-    "workshop-notes/5- S3.md",
     "img/Pasted image 20240415175622.png",
     "img/Pasted image 20231015162451.png",
     "img",
-    "README.md",
-    "notes/10- S3/10.09- S3 Event Notification.md",
-    "notes/10- S3/10.10- S3 Performance.md",
-    "notes/10- S3/10.06- S3 Storage Classes.md",
-    "notes/10- S3/10.07- S3 Lifecycle Rules.md",
-    "notes/10- S3/10.05- S3 Replication.md",
-    "notes/10- S3/10.04- S3 Versioning.md",
-    "notes/10- S3/10.03- Bucket Policy.md",
-    "notes/10- S3/10.02- S3 Security Summary.md",
-    "notes/10- S3/10.01- S3.md",
     "img/Pasted image 20240415175046.png",
     "img/Pasted image 20240415165005.png",
     "img/Pasted image 20240415154933.png",
     "img/Pasted image 20240415154245.png",
     "Pasted image 20240415154214.png",
-    "notes/10- S3/09.04- S3 Static Website Hosting.md",
-    "notes/09- Beanstalk/09.01- AWS Beanstalk.md",
     "notes/10- S3",
-    "notes/08- Route 53/08.13 - Multi - Value Routing.md",
     "notes/09- Beanstalk",
-    "notes/08- Route 53/08.12 - I.P. Based Routing.md",
-    "notes/08- Route 53/08.11 - GeoProximity Routing.md",
-    "notes/08- Route 53/08.10 - Geolocation Routing.md",
-    "notes/08- Route 53/08.09 - Failover Routing.md",
-    "notes/08- Route 53/08.08- Weighted Routing.md",
-    "notes/08- Route 53/08.06- Routing Policy.md",
-    "notes/08- Route 53/08.05 - Health Checks.md",
     "notes/08- Route 53",
     "workshop-notes/Untitled",
     "notes/07- ElasticCache",
     "notes/6- RDS",
     "notes/5- ASG",
     "Untitled.canvas",
-    "workshop-notes",
-    "notes/4- ELB"
+    "workshop-notes"
   ]
 }
