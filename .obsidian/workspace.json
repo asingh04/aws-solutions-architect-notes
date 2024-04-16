@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/03- EC2 Storage/03.12- EBS vs EFS.md",
+                "file": "notes/12- AWS Snow/12.01- AWS Snow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/03- EC2 Storage/03.12- EBS vs EFS.md",
+                "file": "notes/12- AWS Snow/12.01- AWS Snow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/03- EC2 Storage/03.12- EBS vs EFS.md",
+                "file": "notes/12- AWS Snow/12.01- AWS Snow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/03- EC2 Storage/03.12- EBS vs EFS.md"
+                "file": "notes/12- AWS Snow/12.01- AWS Snow.md"
               }
             }
           }
@@ -146,8 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e679ea0a5d77818",
+  "active": "11a40ab14882c66c",
   "lastOpenFiles": [
+    "notes/13- AWS FSx",
+    "img/Pasted image 20240416114930.png",
+    "notes/12- AWS Snow/12.03- Edge Computing.md",
+    "notes/12- AWS Snow/12.02- Data Migration.md",
+    "notes/12- AWS Snow/12.01- AWS Snow.md",
+    "notes/4- ELB/4.2- ALB.md",
+    "notes/12- AWS Snow",
+    "notes/Untitled.md",
+    "workshop-notes/1- AWS Locations.md",
+    "workshop-notes/2-AWS IAM.md",
+    "workshop-notes/Untitled.md",
+    "workshop-notes/5- S3.md",
+    "workshop-notes/4- EBS.md",
+    "workshop-notes/3- VPC.md",
+    "notes/03- EC2 Storage/03.12- EBS vs EFS.md",
     "notes/03- EC2 Storage/03.11- Elastic File System (EFS).md",
     "notes/03- EC2 Storage/03.10- EBS Encryption.md",
     "notes/03- EC2 Storage/03.09- EBS Multi-Attach.md",
@@ -161,19 +176,6 @@
     "notes/03- EC2 Storage/03.01- EBS ( Elastic Block Storage).md",
     "notes/02- EC2/02.01- EC2.md",
     "notes/02- EC2/02.02- EC2 User Data.md",
-    "notes/02- EC2/02.03- EC2 Instance Types.md",
-    "notes/02- EC2/02.04- Security Groups.md",
-    "notes/02- EC2/02.05- EC2 IAM Roles.md",
-    "notes/02- EC2/02.06- EC2 Instance Purchasing Options (IMP).md",
-    "notes/02- EC2/02.07- EC2 Spot Requests + Spot Fleet.md",
-    "notes/02- EC2/02.08- EC2 Placement Groups.md",
-    "notes/02- EC2/02.09- EC2 Elastic Network Interface (ENI).md",
-    "notes/02- EC2/02.10- EC2 Hibernate.md",
-    "notes/02- EC2/02.11 - EC2 AMI (Amazon Machine Image).md",
-    "notes/01- IAM and Permissions/01.07- Best Practices.md",
-    "notes/01- IAM and Permissions/01.06- Other IAM tools.md",
-    "notes/01- IAM and Permissions/01.05- IAM Roles.md",
-    "notes/01- IAM and Permissions/01.04- Access Key & CLI & CloudShell.md",
     "notes/11- CloudFront",
     "img/Pasted image 20240412180917.png",
     "img/Pasted image 20240303201053.png",
@@ -185,7 +187,6 @@
     "img/Pasted image 20240415165005.png",
     "img/Pasted image 20240415154933.png",
     "img/Pasted image 20240415154245.png",
-    "Pasted image 20240415154214.png",
     "notes/10- S3",
     "notes/09- Beanstalk",
     "notes/08- Route 53",
@@ -193,7 +194,6 @@
     "notes/07- ElasticCache",
     "notes/6- RDS",
     "notes/5- ASG",
-    "Untitled.canvas",
-    "workshop-notes"
+    "Untitled.canvas"
   ]
 }
