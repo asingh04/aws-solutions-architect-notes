@@ -11,11 +11,9 @@
             "id": "6e679ea0a5d77818",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "notes/12- AWS Snow/12.01- AWS Snow.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20240416123629.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/12- AWS Snow/12.01- AWS Snow.md",
+                "file": "img/Pasted image 20240416123629.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/12- AWS Snow/12.01- AWS Snow.md",
+                "file": "img/Pasted image 20240416123629.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/12- AWS Snow/12.01- AWS Snow.md"
+                "file": "img/Pasted image 20240416123629.png"
               }
             }
           }
@@ -148,52 +146,52 @@
   },
   "active": "11a40ab14882c66c",
   "lastOpenFiles": [
+    "notes/08- Route 53/08.01- Route 53.md",
+    "notes/08- Route 53/08.13 - Multi - Value Routing.md",
+    "notes/08- Route 53/08.11 - GeoProximity Routing.md",
+    "notes/08- Route 53/08.08- Weighted Routing.md",
+    "notes/08- Route 53/08.09 - Failover Routing.md",
+    "notes/08- Route 53/08.04- Record Alias.md",
+    "notes/15- AWS Transfer Family/15.01- AWS Transfer Family.md",
+    "notes/16",
+    "img/Pasted image 20240416165425.png",
+    "notes/14- AWS Storage Gateway/14.06- Storage Gateway Hardware Appliance.md",
+    "notes/15- AWS Transfer Family",
+    "notes/Untitled.md",
+    "notes/14- AWS Storage Gateway/14.05- Tape Gateway.md",
+    "notes/14- AWS Storage Gateway/14.01- AWS Storage Gateway.md",
+    "img/Pasted image 20240416130334.png",
+    "notes/14- AWS Storage Gateway/14.04- AWS Volume Gateway.md",
+    "img/Pasted image 20240416130129.png",
+    "notes/14- AWS Storage Gateway/14.03- AWS FSx File Gateway.md",
+    "img/Pasted image 20240416124154.png",
+    "notes/14- AWS Storage Gateway/14.02- S3 File Gateway.md",
+    "img/Pasted image 20240416123629.png",
+    "img/Pasted image 20240416121243.png",
+    "img/Pasted image 20240416123013.png",
+    "notes/13- AWS FSx/13.05- FSx for OpenZFS.md",
+    "notes/14- AWS Storage Gateway",
+    "notes/13- AWS FSx/13.04- FSx for NetApp ONTAP.md",
+    "notes/13- AWS FSx/13.03- FSx for Lustre.md",
+    "notes/13- AWS FSx/13.02- FSx for Windows.md",
+    "notes/13- AWS FSx/13.01- AWS FSx.md",
+    "notes/13- AWS FSx/Untitled",
+    "notes/12- AWS Snow/12.01- AWS Snow.md",
     "notes/13- AWS FSx",
     "img/Pasted image 20240416114930.png",
     "notes/12- AWS Snow/12.03- Edge Computing.md",
     "notes/12- AWS Snow/12.02- Data Migration.md",
-    "notes/12- AWS Snow/12.01- AWS Snow.md",
     "notes/4- ELB/4.2- ALB.md",
     "notes/12- AWS Snow",
-    "notes/Untitled.md",
     "workshop-notes/1- AWS Locations.md",
     "workshop-notes/2-AWS IAM.md",
     "workshop-notes/Untitled.md",
-    "workshop-notes/5- S3.md",
-    "workshop-notes/4- EBS.md",
-    "workshop-notes/3- VPC.md",
-    "notes/03- EC2 Storage/03.12- EBS vs EFS.md",
-    "notes/03- EC2 Storage/03.11- Elastic File System (EFS).md",
-    "notes/03- EC2 Storage/03.10- EBS Encryption.md",
-    "notes/03- EC2 Storage/03.09- EBS Multi-Attach.md",
-    "notes/03- EC2 Storage/03.08- EBS Hard Disk Drives.md",
-    "notes/03- EC2 Storage/03.07- EBS Provisions IOPS SSD.md",
-    "notes/03- EC2 Storage/03.06- EBS - General Purpose SSD.md",
-    "notes/03- EC2 Storage/03.05- EBS Volume Types.md",
-    "notes/03- EC2 Storage/03.04- EC2 Instance Storage.md",
-    "notes/03- EC2 Storage/03.03- EBS Snapshot.md",
-    "notes/03- EC2 Storage/03.02- EBS Delete on Termination.md",
-    "notes/03- EC2 Storage/03.01- EBS ( Elastic Block Storage).md",
-    "notes/02- EC2/02.01- EC2.md",
-    "notes/02- EC2/02.02- EC2 User Data.md",
     "notes/11- CloudFront",
     "img/Pasted image 20240412180917.png",
     "img/Pasted image 20240303201053.png",
-    "img/Pasted image 20231015165520.png",
-    "img/Pasted image 20240415175622.png",
-    "img/Pasted image 20231015162451.png",
     "img",
-    "img/Pasted image 20240415175046.png",
-    "img/Pasted image 20240415165005.png",
-    "img/Pasted image 20240415154933.png",
-    "img/Pasted image 20240415154245.png",
     "notes/10- S3",
     "notes/09- Beanstalk",
-    "notes/08- Route 53",
-    "workshop-notes/Untitled",
-    "notes/07- ElasticCache",
-    "notes/6- RDS",
-    "notes/5- ASG",
     "Untitled.canvas"
   ]
 }
