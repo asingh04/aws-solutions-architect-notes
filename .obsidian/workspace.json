@@ -11,9 +11,11 @@
             "id": "6e679ea0a5d77818",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20240416123629.png"
+                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20240416123629.png",
+                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/Pasted image 20240416123629.png",
+                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/Pasted image 20240416123629.png"
+                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md"
               }
             }
           }
@@ -144,16 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11a40ab14882c66c",
+  "active": "6e679ea0a5d77818",
   "lastOpenFiles": [
+    "notes/15- AWS Transfer Family/15.01- AWS Transfer Family.md",
+    "notes/16- AWS DataSync/16.01- AWS DataSync.md",
+    "notes/12- AWS Snow/12.03- Edge Computing.md",
+    "notes/12- AWS Snow/12.02- Data Migration.md",
+    "img/Pasted image 20240416123629.png",
     "notes/08- Route 53/08.01- Route 53.md",
     "notes/08- Route 53/08.13 - Multi - Value Routing.md",
     "notes/08- Route 53/08.11 - GeoProximity Routing.md",
     "notes/08- Route 53/08.08- Weighted Routing.md",
     "notes/08- Route 53/08.09 - Failover Routing.md",
     "notes/08- Route 53/08.04- Record Alias.md",
-    "notes/15- AWS Transfer Family/15.01- AWS Transfer Family.md",
-    "notes/16",
+    "notes/16- AWS DataSync",
     "img/Pasted image 20240416165425.png",
     "notes/14- AWS Storage Gateway/14.06- Storage Gateway Hardware Appliance.md",
     "notes/15- AWS Transfer Family",
@@ -166,7 +172,6 @@
     "notes/14- AWS Storage Gateway/14.03- AWS FSx File Gateway.md",
     "img/Pasted image 20240416124154.png",
     "notes/14- AWS Storage Gateway/14.02- S3 File Gateway.md",
-    "img/Pasted image 20240416123629.png",
     "img/Pasted image 20240416121243.png",
     "img/Pasted image 20240416123013.png",
     "notes/13- AWS FSx/13.05- FSx for OpenZFS.md",
@@ -179,13 +184,9 @@
     "notes/12- AWS Snow/12.01- AWS Snow.md",
     "notes/13- AWS FSx",
     "img/Pasted image 20240416114930.png",
-    "notes/12- AWS Snow/12.03- Edge Computing.md",
-    "notes/12- AWS Snow/12.02- Data Migration.md",
     "notes/4- ELB/4.2- ALB.md",
     "notes/12- AWS Snow",
     "workshop-notes/1- AWS Locations.md",
-    "workshop-notes/2-AWS IAM.md",
-    "workshop-notes/Untitled.md",
     "notes/11- CloudFront",
     "img/Pasted image 20240412180917.png",
     "img/Pasted image 20240303201053.png",
