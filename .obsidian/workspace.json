@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md",
+                "file": "notes/04- ELB/04.08- Connection Draining.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md",
+                "file": "notes/04- ELB/04.08- Connection Draining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md",
+                "file": "notes/04- ELB/04.08- Connection Draining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md"
+                "file": "notes/04- ELB/04.08- Connection Draining.md"
               }
             }
           }
@@ -148,45 +148,46 @@
   },
   "active": "6e679ea0a5d77818",
   "lastOpenFiles": [
-    "notes/15- AWS Transfer Family/15.01- AWS Transfer Family.md",
-    "notes/16- AWS DataSync/16.01- AWS DataSync.md",
-    "notes/12- AWS Snow/12.03- Edge Computing.md",
-    "notes/12- AWS Snow/12.02- Data Migration.md",
+    "notes/04- ELB/04.07- SSL Certificates.md",
+    "notes/04- ELB/04.06- Cross Zone Load Balancing.md",
+    "notes/04- ELB/04.05- ELB Sticky Sessions.md",
+    "notes/04- ELB/04.04- GWLB.md",
+    "notes/04- ELB/04.03- NLB.md",
+    "notes/04- ELB/04.02- ALB.md",
+    "notes/04- ELB/04.01- ELB.md",
+    "notes/05- ASG/05.03- Scaling Policy.md",
+    "notes/05- ASG/05.04- ASG Scaling Cooldown.md",
+    "notes/05- ASG/05.02- ASG + CloudWatch Alarm.md",
+    "notes/05- ASG/05.01- ASG.md",
+    "notes/06- RDS/06.18- RDS Proxy.md",
+    "notes/06- RDS/06.17- RDS Security.md",
+    "notes/06- RDS/06.16- RDS Encryption.md",
+    "notes/06- RDS/06.15- RDS Snapshot Restore.md",
+    "notes/06- RDS/06.14- Aurora Backups.md",
+    "notes/06- RDS/06.13- RDS Backups.md",
+    "notes/06- RDS/06.12- Aurora Machine Learning.md",
+    "notes/06- RDS/06.11- Global Aurora.md",
+    "notes/06- RDS/06.10- Aurora Serverless.md",
+    "notes/06- RDS/06.09- RDS Aurora Features.md",
+    "notes/06- RDS/06.08- Aurora Cluster.md",
+    "notes/06- RDS/06.07- Amazon Aurora.md",
+    "notes/06- RDS/06.06-  RDS Custom.md",
+    "notes/06- RDS/06.05- RDS Multi AZ.md",
+    "notes/06- RDS/06.04- RDS Read Replica Cost.md",
     "img/Pasted image 20240416123629.png",
-    "notes/08- Route 53/08.01- Route 53.md",
-    "notes/08- Route 53/08.13 - Multi - Value Routing.md",
-    "notes/08- Route 53/08.11 - GeoProximity Routing.md",
-    "notes/08- Route 53/08.08- Weighted Routing.md",
-    "notes/08- Route 53/08.09 - Failover Routing.md",
-    "notes/08- Route 53/08.04- Record Alias.md",
     "notes/16- AWS DataSync",
     "img/Pasted image 20240416165425.png",
-    "notes/14- AWS Storage Gateway/14.06- Storage Gateway Hardware Appliance.md",
     "notes/15- AWS Transfer Family",
-    "notes/Untitled.md",
-    "notes/14- AWS Storage Gateway/14.05- Tape Gateway.md",
-    "notes/14- AWS Storage Gateway/14.01- AWS Storage Gateway.md",
     "img/Pasted image 20240416130334.png",
-    "notes/14- AWS Storage Gateway/14.04- AWS Volume Gateway.md",
     "img/Pasted image 20240416130129.png",
-    "notes/14- AWS Storage Gateway/14.03- AWS FSx File Gateway.md",
     "img/Pasted image 20240416124154.png",
-    "notes/14- AWS Storage Gateway/14.02- S3 File Gateway.md",
     "img/Pasted image 20240416121243.png",
     "img/Pasted image 20240416123013.png",
-    "notes/13- AWS FSx/13.05- FSx for OpenZFS.md",
     "notes/14- AWS Storage Gateway",
-    "notes/13- AWS FSx/13.04- FSx for NetApp ONTAP.md",
-    "notes/13- AWS FSx/13.03- FSx for Lustre.md",
-    "notes/13- AWS FSx/13.02- FSx for Windows.md",
-    "notes/13- AWS FSx/13.01- AWS FSx.md",
     "notes/13- AWS FSx/Untitled",
-    "notes/12- AWS Snow/12.01- AWS Snow.md",
     "notes/13- AWS FSx",
     "img/Pasted image 20240416114930.png",
-    "notes/4- ELB/4.2- ALB.md",
     "notes/12- AWS Snow",
-    "workshop-notes/1- AWS Locations.md",
     "notes/11- CloudFront",
     "img/Pasted image 20240412180917.png",
     "img/Pasted image 20240303201053.png",
