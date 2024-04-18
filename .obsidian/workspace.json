@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76f3dc3d17c6689d",
+        "id": "d1e642f9403a8334",
         "type": "tabs",
         "children": [
           {
-            "id": "6e679ea0a5d77818",
+            "id": "17356f40fe7cc05f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e679ea0a5d77818",
+  "active": "17356f40fe7cc05f",
   "lastOpenFiles": [
-    "notes/17- SQS/17.01- SQS.md",
     "notes/17- SQS/17.02- SQS Security.md",
+    "notes/17- SQS/17.01- SQS.md",
     "notes/04- ELB/04.08- Connection Draining.md",
     "notes/17- SQS",
     "notes/04- ELB/04.07- SSL Certificates.md",
