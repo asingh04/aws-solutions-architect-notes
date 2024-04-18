@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/04- ELB/04.08- Connection Draining.md",
+                "file": "notes/17- SQS/17.02- SQS Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/04- ELB/04.08- Connection Draining.md",
+                "file": "notes/17- SQS/17.02- SQS Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/04- ELB/04.08- Connection Draining.md",
+                "file": "notes/17- SQS/17.02- SQS Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/04- ELB/04.08- Connection Draining.md"
+                "file": "notes/17- SQS/17.02- SQS Security.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "6e679ea0a5d77818",
   "lastOpenFiles": [
+    "notes/17- SQS/17.01- SQS.md",
+    "notes/17- SQS/17.02- SQS Security.md",
+    "notes/04- ELB/04.08- Connection Draining.md",
+    "notes/17- SQS",
     "notes/04- ELB/04.07- SSL Certificates.md",
     "notes/04- ELB/04.06- Cross Zone Load Balancing.md",
     "notes/04- ELB/04.05- ELB Sticky Sessions.md",
@@ -171,9 +175,6 @@
     "notes/06- RDS/06.09- RDS Aurora Features.md",
     "notes/06- RDS/06.08- Aurora Cluster.md",
     "notes/06- RDS/06.07- Amazon Aurora.md",
-    "notes/06- RDS/06.06-  RDS Custom.md",
-    "notes/06- RDS/06.05- RDS Multi AZ.md",
-    "notes/06- RDS/06.04- RDS Read Replica Cost.md",
     "img/Pasted image 20240416123629.png",
     "notes/16- AWS DataSync",
     "img/Pasted image 20240416165425.png",
@@ -193,7 +194,6 @@
     "img/Pasted image 20240303201053.png",
     "img",
     "notes/10- S3",
-    "notes/09- Beanstalk",
     "Untitled.canvas"
   ]
 }
