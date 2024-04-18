@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76f3dc3d17c6689d",
+        "id": "577036b96db8ec0f",
         "type": "tabs",
         "children": [
           {
-            "id": "6e679ea0a5d77818",
+            "id": "a736f6edaa6b7b56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/04- ELB/04.08- Connection Draining.md",
+                "file": "notes/17- SQS/17.03- SQS Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/04- ELB/04.08- Connection Draining.md",
+                "file": "notes/17- SQS/17.03- SQS Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/04- ELB/04.08- Connection Draining.md",
+                "file": "notes/17- SQS/17.03- SQS Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/04- ELB/04.08- Connection Draining.md"
+                "file": "notes/17- SQS/17.03- SQS Concepts.md"
               }
             }
           }
@@ -146,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e679ea0a5d77818",
+  "active": "a736f6edaa6b7b56",
   "lastOpenFiles": [
+    "notes/17- SQS/17.02- SQS Security.md",
+    "notes/17- SQS/17.03- SQS Concepts.md",
+    "notes/16- AWS DataSync/16.01- AWS DataSync.md",
+    "notes/17- SQS",
+    "notes/Untitled.md",
+    "notes/12- AWS Snow/12.02- Data Migration.md",
+    "notes/04- ELB/04.08- Connection Draining.md",
     "notes/04- ELB/04.07- SSL Certificates.md",
     "notes/04- ELB/04.06- Cross Zone Load Balancing.md",
     "notes/04- ELB/04.05- ELB Sticky Sessions.md",
@@ -168,12 +175,6 @@
     "notes/06- RDS/06.12- Aurora Machine Learning.md",
     "notes/06- RDS/06.11- Global Aurora.md",
     "notes/06- RDS/06.10- Aurora Serverless.md",
-    "notes/06- RDS/06.09- RDS Aurora Features.md",
-    "notes/06- RDS/06.08- Aurora Cluster.md",
-    "notes/06- RDS/06.07- Amazon Aurora.md",
-    "notes/06- RDS/06.06-  RDS Custom.md",
-    "notes/06- RDS/06.05- RDS Multi AZ.md",
-    "notes/06- RDS/06.04- RDS Read Replica Cost.md",
     "img/Pasted image 20240416123629.png",
     "notes/16- AWS DataSync",
     "img/Pasted image 20240416165425.png",
@@ -193,7 +194,6 @@
     "img/Pasted image 20240303201053.png",
     "img",
     "notes/10- S3",
-    "notes/09- Beanstalk",
     "Untitled.canvas"
   ]
 }
