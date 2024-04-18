@@ -11,11 +11,9 @@
             "id": "17356f40fe7cc05f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "notes/17- SQS/17.02- SQS Security.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20240418172634.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/17- SQS/17.02- SQS Security.md",
+                "file": "img/Pasted image 20240418172634.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/17- SQS/17.02- SQS Security.md",
+                "file": "img/Pasted image 20240418172634.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/17- SQS/17.02- SQS Security.md"
+                "file": "img/Pasted image 20240418172634.png"
               }
             }
           }
@@ -146,9 +144,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17356f40fe7cc05f",
+  "active": "11a40ab14882c66c",
   "lastOpenFiles": [
+    "notes/19- Kinesis/19.04- KDS Security.md",
+    "notes/19- Kinesis/Untitled.md",
+    "notes/19- Kinesis/19.03- KDS Capacity Modes.md",
+    "notes/19- Kinesis/19.02- Kinesis Data Stream.md",
+    "notes/03- EC2 Storage/03.04- EC2 Instance Storage.md",
+    "notes/19- Kinesis/19.01- Kinesis.md",
+    "notes/19- Kinesis/Untitled",
+    "notes/18- SNS/18.01- SNS.md",
+    "notes/19- Kinesis",
+    "notes/18- SNS/18.02- SNS Concepts.md",
+    "notes/18- SNS/18.05- FIFO Topics.md",
+    "notes/18- SNS/Untitled.md",
+    "notes/18- SNS/18.04- SNS+S3 Event Rule.md",
+    "img/Pasted image 20240418180341.png",
+    "notes/18- SNS/18.03- SNS+SQS Fan out pattern.md",
+    "img/Pasted image 20240418175535.png",
     "notes/17- SQS/17.02- SQS Security.md",
+    "notes/17- SQS/17.04- FIFO Queues.md",
+    "notes/17- SQS/17.03- SQS Concepts.md",
+    "notes/17- SQS/17.05- SQS+ASG.md",
+    "notes/18- SNS/Untitled",
+    "notes/18- SNS",
+    "img/Pasted image 20240418172951.png",
+    "img/Pasted image 20240418172634.png",
     "notes/17- SQS/17.01- SQS.md",
     "notes/04- ELB/04.08- Connection Draining.md",
     "notes/17- SQS",
@@ -160,21 +181,6 @@
     "notes/04- ELB/04.02- ALB.md",
     "notes/04- ELB/04.01- ELB.md",
     "notes/05- ASG/05.03- Scaling Policy.md",
-    "notes/05- ASG/05.04- ASG Scaling Cooldown.md",
-    "notes/05- ASG/05.02- ASG + CloudWatch Alarm.md",
-    "notes/05- ASG/05.01- ASG.md",
-    "notes/06- RDS/06.18- RDS Proxy.md",
-    "notes/06- RDS/06.17- RDS Security.md",
-    "notes/06- RDS/06.16- RDS Encryption.md",
-    "notes/06- RDS/06.15- RDS Snapshot Restore.md",
-    "notes/06- RDS/06.14- Aurora Backups.md",
-    "notes/06- RDS/06.13- RDS Backups.md",
-    "notes/06- RDS/06.12- Aurora Machine Learning.md",
-    "notes/06- RDS/06.11- Global Aurora.md",
-    "notes/06- RDS/06.10- Aurora Serverless.md",
-    "notes/06- RDS/06.09- RDS Aurora Features.md",
-    "notes/06- RDS/06.08- Aurora Cluster.md",
-    "notes/06- RDS/06.07- Amazon Aurora.md",
     "img/Pasted image 20240416123629.png",
     "notes/16- AWS DataSync",
     "img/Pasted image 20240416165425.png",
@@ -183,17 +189,9 @@
     "img/Pasted image 20240416130129.png",
     "img/Pasted image 20240416124154.png",
     "img/Pasted image 20240416121243.png",
-    "img/Pasted image 20240416123013.png",
     "notes/14- AWS Storage Gateway",
     "notes/13- AWS FSx/Untitled",
     "notes/13- AWS FSx",
-    "img/Pasted image 20240416114930.png",
-    "notes/12- AWS Snow",
-    "notes/11- CloudFront",
-    "img/Pasted image 20240412180917.png",
-    "img/Pasted image 20240303201053.png",
-    "img",
-    "notes/10- S3",
     "Untitled.canvas"
   ]
 }
