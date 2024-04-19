@@ -11,11 +11,9 @@
             "id": "a736f6edaa6b7b56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "notes/20- AWS MQ/20.01- AWS MQ.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20240419192304.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/20- AWS MQ/20.01- AWS MQ.md",
+                "file": "img/Pasted image 20240419192304.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/20- AWS MQ/20.01- AWS MQ.md",
+                "file": "img/Pasted image 20240419192304.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/20- AWS MQ/20.01- AWS MQ.md"
+                "file": "img/Pasted image 20240419192304.png"
               }
             }
           }
@@ -146,10 +144,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a736f6edaa6b7b56",
+  "active": "11a40ab14882c66c",
   "lastOpenFiles": [
-    "notes/19- Kinesis/19.07- Kinesis vs SQS FIFO.md",
+    "notes/21- ECS/21.06- Some ECS Architecture.md",
+    "img/Pasted image 20240419192304.png",
+    "img/Pasted image 20240419192213.png",
+    "img/Pasted image 20240419192127.png",
+    "img/Pasted image 20240419192053.png",
+    "notes/21- ECS/21.05- ECS Auto Scaling Group.md",
+    "notes/21- ECS/21.04- ECS + EFS.md",
+    "notes/21- ECS/21.03- ECS + Load Balancers.md",
+    "notes/21- ECS/21.02- ECS IAMs.md",
+    "img/Pasted image 20240419184352.png",
+    "notes/21- ECS/21.01 - ECS.md",
     "notes/20- AWS MQ/20.01- AWS MQ.md",
+    "notes/21- ECS",
+    "notes/Untitled.md",
+    "notes/19- Kinesis/19.07- Kinesis vs SQS FIFO.md",
     "notes/20- AWS MQ",
     "notes/19- Kinesis/19.06- KDS vs KDF.md",
     "notes/19- Kinesis/19.05- Kinesis Data Firhose.md",
@@ -173,27 +184,13 @@
     "img/Pasted image 20240418172951.png",
     "img/Pasted image 20240418172634.png",
     "notes/17- SQS/17.02- SQS Security.md",
-    "notes/16- AWS DataSync/16.01- AWS DataSync.md",
     "notes/17- SQS",
-    "notes/Untitled.md",
-    "notes/12- AWS Snow/12.02- Data Migration.md",
-    "notes/04- ELB/04.08- Connection Draining.md",
-    "notes/04- ELB/04.07- SSL Certificates.md",
-    "notes/04- ELB/04.06- Cross Zone Load Balancing.md",
-    "notes/04- ELB/04.05- ELB Sticky Sessions.md",
-    "notes/04- ELB/04.04- GWLB.md",
     "img/Pasted image 20240416123629.png",
     "notes/16- AWS DataSync",
-    "img/Pasted image 20240416165425.png",
     "notes/15- AWS Transfer Family",
-    "img/Pasted image 20240416130334.png",
-    "img/Pasted image 20240416130129.png",
-    "img/Pasted image 20240416124154.png",
-    "img/Pasted image 20240416121243.png",
     "notes/14- AWS Storage Gateway",
     "notes/13- AWS FSx/Untitled",
     "notes/13- AWS FSx",
-    "notes/12- AWS Snow",
     "Untitled.canvas"
   ]
 }
