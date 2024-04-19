@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d1e642f9403a8334",
+        "id": "577036b96db8ec0f",
         "type": "tabs",
         "children": [
           {
-            "id": "17356f40fe7cc05f",
+            "id": "a736f6edaa6b7b56",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20240418172634.png"
+                "file": "notes/20- AWS MQ/20.01- AWS MQ.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20240418172634.png",
+                "file": "notes/20- AWS MQ/20.01- AWS MQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/Pasted image 20240418172634.png",
+                "file": "notes/20- AWS MQ/20.01- AWS MQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/Pasted image 20240418172634.png"
+                "file": "notes/20- AWS MQ/20.01- AWS MQ.md"
               }
             }
           }
@@ -144,43 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11a40ab14882c66c",
+  "active": "a736f6edaa6b7b56",
   "lastOpenFiles": [
-    "notes/19- Kinesis/19.04- KDS Security.md",
-    "notes/19- Kinesis/Untitled.md",
-    "notes/19- Kinesis/19.03- KDS Capacity Modes.md",
+    "notes/19- Kinesis/19.07- Kinesis vs SQS FIFO.md",
+    "notes/20- AWS MQ/20.01- AWS MQ.md",
+    "notes/20- AWS MQ",
+    "notes/19- Kinesis/19.06- KDS vs KDF.md",
+    "notes/19- Kinesis/19.05- Kinesis Data Firhose.md",
     "notes/19- Kinesis/19.02- Kinesis Data Stream.md",
-    "notes/03- EC2 Storage/03.04- EC2 Instance Storage.md",
-    "notes/19- Kinesis/19.01- Kinesis.md",
-    "notes/19- Kinesis/Untitled",
-    "notes/18- SNS/18.01- SNS.md",
-    "notes/19- Kinesis",
-    "notes/18- SNS/18.02- SNS Concepts.md",
-    "notes/18- SNS/18.05- FIFO Topics.md",
-    "notes/18- SNS/Untitled.md",
-    "notes/18- SNS/18.04- SNS+S3 Event Rule.md",
-    "img/Pasted image 20240418180341.png",
-    "notes/18- SNS/18.03- SNS+SQS Fan out pattern.md",
-    "img/Pasted image 20240418175535.png",
-    "notes/17- SQS/17.02- SQS Security.md",
-    "notes/17- SQS/17.04- FIFO Queues.md",
+    "notes/19- Kinesis/19.04- KDS Security.md",
     "notes/17- SQS/17.03- SQS Concepts.md",
-    "notes/17- SQS/17.05- SQS+ASG.md",
-    "notes/18- SNS/Untitled",
+    "notes/19- Kinesis/19.03- KDS Capacity Modes.md",
+    "notes/19- Kinesis/19.01- Kinesis.md",
+    "notes/19- Kinesis",
+    "notes/18- SNS/18.05- FIFO Topics.md",
+    "notes/18- SNS/18.04- SNS+S3 Event Rule.md",
+    "notes/18- SNS/18.03- SNS+SQS Fan out pattern.md",
+    "notes/18- SNS/18.02- SNS Concepts.md",
+    "notes/18- SNS/18.01- SNS.md",
     "notes/18- SNS",
+    "notes/17- SQS/17.05- SQS+ASG.md",
+    "notes/17- SQS/17.04- FIFO Queues.md",
+    "notes/17- SQS/17.01- SQS.md",
+    "img/Pasted image 20240418180341.png",
+    "img/Pasted image 20240418175535.png",
     "img/Pasted image 20240418172951.png",
     "img/Pasted image 20240418172634.png",
-    "notes/17- SQS/17.01- SQS.md",
-    "notes/04- ELB/04.08- Connection Draining.md",
+    "notes/17- SQS/17.02- SQS Security.md",
+    "notes/16- AWS DataSync/16.01- AWS DataSync.md",
     "notes/17- SQS",
+    "notes/Untitled.md",
+    "notes/12- AWS Snow/12.02- Data Migration.md",
+    "notes/04- ELB/04.08- Connection Draining.md",
     "notes/04- ELB/04.07- SSL Certificates.md",
     "notes/04- ELB/04.06- Cross Zone Load Balancing.md",
     "notes/04- ELB/04.05- ELB Sticky Sessions.md",
     "notes/04- ELB/04.04- GWLB.md",
-    "notes/04- ELB/04.03- NLB.md",
-    "notes/04- ELB/04.02- ALB.md",
-    "notes/04- ELB/04.01- ELB.md",
-    "notes/05- ASG/05.03- Scaling Policy.md",
     "img/Pasted image 20240416123629.png",
     "notes/16- AWS DataSync",
     "img/Pasted image 20240416165425.png",
@@ -192,6 +193,7 @@
     "notes/14- AWS Storage Gateway",
     "notes/13- AWS FSx/Untitled",
     "notes/13- AWS FSx",
+    "notes/12- AWS Snow",
     "Untitled.canvas"
   ]
 }
