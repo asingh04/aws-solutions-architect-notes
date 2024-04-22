@@ -11,9 +11,11 @@
             "id": "a736f6edaa6b7b56",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20240419192304.png"
+                "file": "notes/21- Containers on AWS/21.09- AWS App Runner.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20240419192304.png",
+                "file": "notes/21- Containers on AWS/21.09- AWS App Runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/Pasted image 20240419192304.png",
+                "file": "notes/21- Containers on AWS/21.09- AWS App Runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/Pasted image 20240419192304.png"
+                "file": "notes/21- Containers on AWS/21.09- AWS App Runner.md"
               }
             }
           }
@@ -144,21 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11a40ab14882c66c",
+  "active": "a736f6edaa6b7b56",
   "lastOpenFiles": [
-    "notes/21- ECS/21.06- Some ECS Architecture.md",
+    "notes/21- Containers on AWS/21.01- ECS.md",
+    "notes/21- Containers on AWS/21.09- AWS App Runner.md",
+    "notes/21- Containers on AWS/21.08- EKS.md",
+    "notes/21- Containers on AWS/21.07- ECR.md",
+    "notes/21- ECS/Untitled",
+    "notes/17- SQS/17.04- FIFO Queues.md",
+    "notes/22- ECR",
+    "notes/10- S3/10.09- S3 Event Notification.md",
+    "notes/10- S3/10.08- S3 features.md",
+    "notes/21- Containers on AWS/21.06- Some ECS Architecture.md",
     "img/Pasted image 20240419192304.png",
     "img/Pasted image 20240419192213.png",
     "img/Pasted image 20240419192127.png",
     "img/Pasted image 20240419192053.png",
-    "notes/21- ECS/21.05- ECS Auto Scaling Group.md",
-    "notes/21- ECS/21.04- ECS + EFS.md",
-    "notes/21- ECS/21.03- ECS + Load Balancers.md",
-    "notes/21- ECS/21.02- ECS IAMs.md",
+    "notes/21- Containers on AWS/21.05- ECS Auto Scaling Group.md",
+    "notes/21- Containers on AWS/21.04- ECS + EFS.md",
+    "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md",
+    "notes/21- Containers on AWS/21.02- ECS IAMs.md",
     "img/Pasted image 20240419184352.png",
-    "notes/21- ECS/21.01 - ECS.md",
     "notes/20- AWS MQ/20.01- AWS MQ.md",
-    "notes/21- ECS",
+    "notes/21- Containers on AWS",
     "notes/Untitled.md",
     "notes/19- Kinesis/19.07- Kinesis vs SQS FIFO.md",
     "notes/20- AWS MQ",
@@ -174,23 +184,16 @@
     "notes/18- SNS/18.04- SNS+S3 Event Rule.md",
     "notes/18- SNS/18.03- SNS+SQS Fan out pattern.md",
     "notes/18- SNS/18.02- SNS Concepts.md",
-    "notes/18- SNS/18.01- SNS.md",
     "notes/18- SNS",
-    "notes/17- SQS/17.05- SQS+ASG.md",
-    "notes/17- SQS/17.04- FIFO Queues.md",
-    "notes/17- SQS/17.01- SQS.md",
     "img/Pasted image 20240418180341.png",
     "img/Pasted image 20240418175535.png",
     "img/Pasted image 20240418172951.png",
     "img/Pasted image 20240418172634.png",
-    "notes/17- SQS/17.02- SQS Security.md",
     "notes/17- SQS",
     "img/Pasted image 20240416123629.png",
     "notes/16- AWS DataSync",
     "notes/15- AWS Transfer Family",
     "notes/14- AWS Storage Gateway",
-    "notes/13- AWS FSx/Untitled",
-    "notes/13- AWS FSx",
     "Untitled.canvas"
   ]
 }
