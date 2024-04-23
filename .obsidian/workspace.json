@@ -23,9 +23,11 @@
             "id": "be2ae51f55750614",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20240422190854.png"
+                "file": "notes/24- API Gateway/24.01- API Gateway.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20240422190854.png",
+                "file": "notes/24- API Gateway/24.01- API Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/Pasted image 20240422190854.png",
+                "file": "notes/24- API Gateway/24.01- API Gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/Pasted image 20240422190854.png"
+                "file": "notes/24- API Gateway/24.01- API Gateway.md"
               }
             }
           }
@@ -157,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11a40ab14882c66c",
+  "active": "be2ae51f55750614",
   "lastOpenFiles": [
+    "img/Pasted image 20240422190854.png",
     "notes/25- Other Serverless Services/25.02- AWS COGNITO.md",
     "img/Pasted image 20240422191117.png",
-    "img/Pasted image 20240422190854.png",
     "notes/25- Other Serverless Services/25.01- AWS Step Functions.md",
     "notes/24- API Gateway/24.02- API Gateway Fetaures.md",
     "notes/25- Other Serverless Services",
