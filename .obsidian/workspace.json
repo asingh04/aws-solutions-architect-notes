@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "577036b96db8ec0f",
+        "id": "d1e642f9403a8334",
         "type": "tabs",
         "children": [
           {
-            "id": "a736f6edaa6b7b56",
+            "id": "17356f40fe7cc05f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md",
+                "file": "notes/24- API Gateway/24.01- API Gateway.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "be2ae51f55750614",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/Pasted image 20240422190854.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md",
+                "file": "img/Pasted image 20240422190854.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md",
+                "file": "img/Pasted image 20240422190854.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md"
+                "file": "img/Pasted image 20240422190854.png"
               }
             }
           }
@@ -146,54 +157,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a736f6edaa6b7b56",
+  "active": "11a40ab14882c66c",
   "lastOpenFiles": [
-    "notes/21- Containers on AWS/21.09- AWS App Runner.md",
+    "notes/25- Other Serverless Services/25.02- AWS COGNITO.md",
+    "img/Pasted image 20240422191117.png",
+    "img/Pasted image 20240422190854.png",
+    "notes/25- Other Serverless Services/25.01- AWS Step Functions.md",
+    "notes/24- API Gateway/24.02- API Gateway Fetaures.md",
+    "notes/25- Other Serverless Services",
+    "notes/24- API Gateway/24.01- API Gateway.md",
     "notes/23- DynamoDB/23.05- DynamoDB Global Tables.md",
+    "notes/24- API Gateway",
+    "img/Pasted image 20240421173259.png",
+    "notes/21- Containers on AWS/21.09- AWS App Runner.md",
+    "notes/21- Containers on AWS/21.08- EKS.md",
+    "notes/21- Containers on AWS/21.07- ECR.md",
+    "notes/21- Containers on AWS/21.06- Some ECS Architecture.md",
+    "notes/21- Containers on AWS/21.05- ECS Auto Scaling Group.md",
+    "notes/21- Containers on AWS/21.01- ECS.md",
+    "notes/21- Containers on AWS/21.04- ECS + EFS.md",
+    "notes/21- Containers on AWS/21.02- ECS IAMs.md",
+    "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md",
+    "notes/21- Containers on AWS",
     "notes/23- DynamoDB/23.04- DynamoDB Features.md",
+    "img/Pasted image 20240421202753.png",
+    "notes/23- DynamoDB/23.04- DynamoDB Streams.md",
+    "img/Pasted image 20240421201630.png",
     "notes/23- DynamoDB/23.03- DynamoDB Accelerator (DAX).md",
+    "img/Pasted image 20240421200745.png",
     "notes/23- DynamoDB/23.02- DynamoDB Capacity Modes.md",
     "notes/23- DynamoDB/23.01- DynamoDB (Serverless DB).md",
-    "notes/23- DynamoDB",
     "notes/22- Lambda/22.08- Lambda + RDS.md",
-    "notes/22- Lambda/22.07- Lambda + VPC.md",
-    "notes/22- Lambda/22.06- Lambda + Edge Servers.md",
-    "notes/22- Lambda/22.05- Lambda SnapStart.md",
-    "notes/22- Lambda/22.04- Lambda Limits.md",
-    "notes/22- Lambda/22.03- Lambda Pricing.md",
-    "notes/22- Lambda/22.02- Lambda Use Cases.md",
-    "notes/22- Lambda/22.01- AWS Lambda.md",
-    "notes/22- Lambda",
-    "img/Pasted image 20240421202753.png",
-    "img/Pasted image 20240421201630.png",
-    "img/Pasted image 20240421200745.png",
+    "notes/23- DynamoDB",
+    "notes/18- SNS/18.05- FIFO Topics.md",
+    "notes/18- SNS/18.04- SNS+S3 Event Rule.md",
+    "notes/17- SQS/17.05- SQS+ASG.md",
+    "notes/10- S3/10.09- S3 Event Notification.md",
     "img/Pasted image 20240421194645.png",
+    "notes/22- Lambda/22.07- Lambda + VPC.md",
     "img/Pasted image 20240421175034.png",
     "img/Pasted image 20240421174502.png",
     "img/Pasted image 20240421174249.png",
-    "img/Pasted image 20240421173317.png",
-    "img/Pasted image 20240421173259.png",
-    "img/Pasted image 20240421170030.png",
-    "notes/21- Containers on AWS/21.01- ECS.md",
-    "notes/21- Containers on AWS/21.08- EKS.md",
-    "notes/21- Containers on AWS/21.07- ECR.md",
-    "notes/21- ECS/Untitled",
-    "notes/17- SQS/17.04- FIFO Queues.md",
-    "notes/22- ECR",
-    "notes/10- S3/10.09- S3 Event Notification.md",
-    "notes/10- S3/10.08- S3 features.md",
-    "notes/21- Containers on AWS/21.06- Some ECS Architecture.md",
-    "notes/21- Containers on AWS/21.05- ECS Auto Scaling Group.md",
-    "notes/21- Containers on AWS/21.04- ECS + EFS.md",
-    "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md",
-    "notes/21- Containers on AWS/21.02- ECS IAMs.md",
-    "notes/20- AWS MQ/20.01- AWS MQ.md",
-    "notes/21- Containers on AWS",
+    "notes/22- Lambda",
+    "notes/21- ECS",
     "notes/20- AWS MQ",
+    "notes/19- Kinesis/Untitled",
     "notes/19- Kinesis",
-    "notes/18- SNS",
-    "notes/17- SQS",
-    "notes/16- AWS DataSync",
+    "notes/18- SNS/Untitled",
     "Untitled.canvas"
   ]
 }
