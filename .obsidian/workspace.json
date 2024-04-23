@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md",
+                "file": "notes/24- API Gateway/24.01- API Gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md",
+                "file": "notes/24- API Gateway/24.01- API Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md",
+                "file": "notes/24- API Gateway/24.01- API Gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md"
+                "file": "notes/24- API Gateway/24.01- API Gateway.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "a736f6edaa6b7b56",
   "lastOpenFiles": [
-    "notes/21- Containers on AWS/21.09- AWS App Runner.md",
-    "notes/23- DynamoDB/23.05- DynamoDB Global Tables.md",
     "notes/23- DynamoDB/23.04- DynamoDB Features.md",
+    "notes/24- API Gateway/24.01- API Gateway.md",
+    "notes/Untitled.md",
+    "notes/24- API Gateway",
+    "notes/23- DynamoDB/23.05- DynamoDB Global Tables.md",
     "notes/23- DynamoDB/23.03- DynamoDB Accelerator (DAX).md",
+    "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md",
+    "notes/21- Containers on AWS/21.09- AWS App Runner.md",
     "notes/23- DynamoDB/23.02- DynamoDB Capacity Modes.md",
     "notes/23- DynamoDB/23.01- DynamoDB (Serverless DB).md",
     "notes/23- DynamoDB",
@@ -185,15 +189,11 @@
     "notes/21- Containers on AWS/21.06- Some ECS Architecture.md",
     "notes/21- Containers on AWS/21.05- ECS Auto Scaling Group.md",
     "notes/21- Containers on AWS/21.04- ECS + EFS.md",
-    "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md",
-    "notes/21- Containers on AWS/21.02- ECS IAMs.md",
-    "notes/20- AWS MQ/20.01- AWS MQ.md",
     "notes/21- Containers on AWS",
     "notes/20- AWS MQ",
     "notes/19- Kinesis",
     "notes/18- SNS",
     "notes/17- SQS",
-    "notes/16- AWS DataSync",
     "Untitled.canvas"
   ]
 }
