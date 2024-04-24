@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/24- API Gateway/24.01- API Gateway.md",
+                "file": "notes/26- Comparing DBs on AWS/26.01- Comparing Databases on AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/24- API Gateway/24.01- API Gateway.md",
+                "file": "notes/26- Comparing DBs on AWS/26.01- Comparing Databases on AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/24- API Gateway/24.01- API Gateway.md",
+                "file": "notes/26- Comparing DBs on AWS/26.01- Comparing Databases on AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/24- API Gateway/24.01- API Gateway.md"
+                "file": "notes/26- Comparing DBs on AWS/26.01- Comparing Databases on AWS.md"
               }
             }
           }
@@ -161,13 +161,15 @@
   },
   "active": "be2ae51f55750614",
   "lastOpenFiles": [
+    "notes/24- API Gateway/24.01- API Gateway.md",
+    "notes/26- Comparing DBs on AWS/26.01- Comparing Databases on AWS.md",
+    "notes/26- Comparing DBs on AWS",
     "img/Pasted image 20240422190854.png",
     "notes/25- Other Serverless Services/25.02- AWS COGNITO.md",
     "img/Pasted image 20240422191117.png",
     "notes/25- Other Serverless Services/25.01- AWS Step Functions.md",
     "notes/24- API Gateway/24.02- API Gateway Fetaures.md",
     "notes/25- Other Serverless Services",
-    "notes/24- API Gateway/24.01- API Gateway.md",
     "notes/23- DynamoDB/23.05- DynamoDB Global Tables.md",
     "notes/24- API Gateway",
     "img/Pasted image 20240421173259.png",
@@ -205,7 +207,6 @@
     "notes/20- AWS MQ",
     "notes/19- Kinesis/Untitled",
     "notes/19- Kinesis",
-    "notes/18- SNS/Untitled",
     "Untitled.canvas"
   ]
 }
