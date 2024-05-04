@@ -1,6 +1,6 @@
 
 
-In AWS VPC, the max number of IPs supported dedpends on the number of host bits in the IP address.
+In AWS VPC, the max number of IPs supported depends on the number of host bits in the IP address.
 
 Make CIDR range value is
 x.x.x.x/28 to x.x.x.x/16
