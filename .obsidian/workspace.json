@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "577036b96db8ec0f",
+        "id": "d1e642f9403a8334",
         "type": "tabs",
         "children": [
           {
-            "id": "a736f6edaa6b7b56",
+            "id": "17356f40fe7cc05f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workshop-notes/3- VPC.md",
+                "file": "notes/24- API Gateway/24.01- API Gateway.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2bbd7faf8340220e",
+            "id": "be2ae51f55750614",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "notes/31- Networking/31.10- VPC Endpoint.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20240504130609.png"
               }
             }
           }
@@ -61,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metric stream",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/31- Networking/31.10- VPC Endpoint.md",
+                "file": "img/Pasted image 20240504130609.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/31- Networking/31.10- VPC Endpoint.md",
+                "file": "img/Pasted image 20240504130609.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/31- Networking/31.10- VPC Endpoint.md"
+                "file": "img/Pasted image 20240504130609.png"
               }
             }
           }
@@ -159,51 +157,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bbd7faf8340220e",
+  "active": "11a40ab14882c66c",
   "lastOpenFiles": [
-    "notes/31- Networking/31.09- VPC Peering.md",
-    "notes/31- Networking/31.10- VPC Endpoint.md",
-    "notes/31- Networking/31.02- Default VPC.md",
-    "img/Pasted image 20240430180944.png",
+    "notes/31- Networking/31.05- Bastion Hosts.md",
+    "notes/31- Networking/31.15- Transit Gateway.md",
+    "notes/31- Networking/31.14- Direct Connect DX.md",
+    "notes/31- Networking/31.19- AWS Network Firewall.md",
+    "notes/31- Networking/31.18- Networking Costs.md",
+    "notes/31- Networking/31.17- IPv6 in VPCs.md",
+    "img/Pasted image 20240504221123.png",
+    "notes/31- Networking/31.03- VPC & Subnets.md",
+    "notes/31- Networking/31.16- Traffic Mirroring.md",
     "notes/31- Networking/Untitled",
-    "img/Pasted image 20240430180613.png",
-    "img/Pasted image 20240430171339.png",
-    "img/Pasted image 20240430165508.png",
-    "notes/03- EC2 Storage/03.03- EBS Snapshot.md",
-    "notes/02- EC2/02.11 - EC2 AMI (Amazon Machine Image).md",
+    "img/Pasted image 20240504164914.png",
+    "img/Pasted image 20240504164141.png",
+    "img/Pasted image 20240504163803.png",
+    "notes/31- Networking/31.15- DX + Site-to-Site VPN.md",
+    "img/Pasted image 20240504163038.png",
+    "img/Pasted image 20240504161942.png",
+    "notes/31- Networking/31.13- VPN CloudHub.md",
+    "notes/31- Networking/31.12- Site-to-Site VPN.md",
+    "img/Pasted image 20240504154613.png",
+    "img/Pasted image 20240504154559.png",
+    "notes/22- Lambda/22.07- Lambda + VPC.md",
+    "notes/22- Lambda/22.08- Lambda + RDS.md",
+    "notes/31- Networking/31.11- VPC Flow Logs.md",
+    "notes/31- Networking/31.10- VPC Endpoint.md",
+    "img/Pasted image 20240504130624.png",
+    "img/Pasted image 20240504130609.png",
+    "notes/16- AWS DataSync/16.01- AWS DataSync.md",
+    "notes/31- Networking/31.09- VPC Peering.md",
     "notes/31- Networking/31.08- NACL & Security Group.md",
     "notes/31- Networking/31.07- NAT Gateway.md",
-    "notes/31- Networking/31.04- IGW & Route Tables.md",
     "notes/31- Networking/31.06- NAT Instance.md",
-    "notes/31- Networking/31.03- VPC & Subnets.md",
-    "notes/0- Misc/0.1- Public vs Private vs ELastic IP.md",
-    "workshop-notes/1- AWS Locations.md",
-    "workshop-notes/5- S3.md",
-    "workshop-notes/4- EBS.md",
-    "workshop-notes/3- VPC.md",
-    "notes/31- Networking/31.05- Bastion Hosts.md",
+    "notes/31- Networking/31.04- IGW & Route Tables.md",
+    "notes/31- Networking/31.02- Default VPC.md",
     "notes/31- Networking/31.01- IP And CIDR.md",
-    "workshop-notes/2-AWS IAM.md",
-    "notes/30- Security/30.09- ACM.md",
     "notes/31- Networking",
-    "notes/30- Security/30.05- S3 Replication + Encryption.md",
-    "notes/30- Security/30.13- AWS GuardDuty.md",
-    "notes/30- Security/30.02- KMS Keys Ownership.md",
-    "notes/30- Security/30.01- KMS.md",
-    "notes/30- Security/30.03- KMS Keys Policies.md",
-    "notes/30- Security/30.04- KMS Multi-Region Keys.md",
-    "notes/30- Security/30.06- AMI Encryption.md",
-    "img/Pasted image 20240426120219.png",
+    "notes/15- AWS Transfer Family/15.01- AWS Transfer Family.md",
+    "notes/14- AWS Storage Gateway/14.01- AWS Storage Gateway.md",
+    "notes/14- AWS Storage Gateway/14.06- Storage Gateway Hardware Appliance.md",
+    "notes/30- Encryptions & Secrets/Untitled",
     "notes/30- Security",
-    "img/Pasted image 20240428202645.png",
-    "img/Pasted image 20240428202604.png",
-    "img/Pasted image 20240428184933.png",
-    "img/Pasted image 20240427172131.png",
-    "img/Pasted image 20240427171909.png",
     "notes/29- Identity & Access Management",
     "notes/28- Monitoring",
     "notes/27- Machine learning in AWS",
-    "notes/26- Comparing DBs on AWS/Untitled",
     "notes/26- Comparing DBs on AWS",
     "notes/25- Other Serverless Services",
     "notes/24- API Gateway",
