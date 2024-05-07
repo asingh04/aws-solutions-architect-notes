@@ -25,7 +25,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "img/Pasted image 20240504130609.png"
+                "file": "img/Pasted image 20240505174956.png"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20240504130609.png",
+                "file": "img/Pasted image 20240505174956.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/Pasted image 20240504130609.png",
+                "file": "img/Pasted image 20240505174956.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/Pasted image 20240504130609.png"
+                "file": "img/Pasted image 20240505174956.png"
               }
             }
           }
@@ -159,52 +159,51 @@
   },
   "active": "11a40ab14882c66c",
   "lastOpenFiles": [
-    "notes/31- Networking/31.05- Bastion Hosts.md",
-    "notes/31- Networking/31.15- Transit Gateway.md",
-    "notes/31- Networking/31.14- Direct Connect DX.md",
-    "notes/31- Networking/31.19- AWS Network Firewall.md",
-    "notes/31- Networking/31.18- Networking Costs.md",
-    "notes/31- Networking/31.17- IPv6 in VPCs.md",
+    "img/Pasted image 20240505171326.png",
+    "img/Pasted image 20240505171219.png",
+    "notes/33- Database Migration/33.04- Migrating to Aurora DB.md",
+    "notes/35- Application Migration/35.03- VMWare Cloud on AWS.md",
+    "notes/16- AWS DataSync/16.01- AWS DataSync.md",
+    "notes/11- CloudFront/11.06- Global Accelerator.md",
+    "notes/12- AWS Snow/12.03- Edge Computing.md",
+    "notes/12- AWS Snow/12.02- Data Migration.md",
+    "notes/13- AWS FSx/13.01- AWS FSx.md",
+    "notes/13- AWS FSx/13.02- FSx for Windows.md",
+    "notes/13- AWS FSx/13.03- FSx for Lustre.md",
+    "notes/13- AWS FSx/13.04- FSx for NetApp ONTAP.md",
+    "notes/13- AWS FSx/13.05- FSx for OpenZFS.md",
+    "notes/14- AWS Storage Gateway/14.01- AWS Storage Gateway.md",
+    "notes/14- AWS Storage Gateway/14.02- S3 File Gateway.md",
+    "notes/14- AWS Storage Gateway/14.03- AWS FSx File Gateway.md",
+    "notes/14- AWS Storage Gateway/14.04- AWS Volume Gateway.md",
+    "notes/14- AWS Storage Gateway/14.05- Tape Gateway.md",
+    "notes/14- AWS Storage Gateway/14.06- Storage Gateway Hardware Appliance.md",
+    "notes/15- AWS Transfer Family/15.01- AWS Transfer Family.md",
+    "notes/35- Application Migration/35.02- AWS Application Migration Service.md",
+    "notes/35- Application Migration/35.01- AWS Application Discovery Service.md",
+    "notes/32- Disaster Recovery/32.07- VM Recovery.md",
+    "notes/33- Database Migration/33.01- Database Migration Service.md",
+    "notes/33- Database Migration/33.03- DMS Multi AZ.md",
+    "notes/34- AWS Backup/34.01- AWS Backup.md",
+    "notes/34- AWS Backup/34.02- AWS Backup Vault Lock.md",
+    "notes/35- Application Migration",
+    "notes/34- AWS Backup/Untitled",
+    "notes/34- AWS Backup",
+    "img/Pasted image 20240505174956.png",
+    "notes/33- Database Migration",
+    "img/Pasted image 20240505170748.png",
+    "img/Pasted image 20240505170600.png",
+    "img/Pasted image 20240505170604.png",
+    "img/Pasted image 20240505165755.png",
+    "notes/32- Disaster Recovery",
+    "img/Pasted image 20240504130609.png",
     "img/Pasted image 20240504221123.png",
-    "notes/31- Networking/31.03- VPC & Subnets.md",
-    "notes/31- Networking/31.16- Traffic Mirroring.md",
     "notes/31- Networking/Untitled",
     "img/Pasted image 20240504164914.png",
-    "img/Pasted image 20240504164141.png",
-    "img/Pasted image 20240504163803.png",
-    "notes/31- Networking/31.15- DX + Site-to-Site VPN.md",
-    "img/Pasted image 20240504163038.png",
-    "img/Pasted image 20240504161942.png",
-    "notes/31- Networking/31.13- VPN CloudHub.md",
-    "notes/31- Networking/31.12- Site-to-Site VPN.md",
-    "img/Pasted image 20240504154613.png",
-    "img/Pasted image 20240504154559.png",
-    "notes/22- Lambda/22.07- Lambda + VPC.md",
-    "notes/22- Lambda/22.08- Lambda + RDS.md",
-    "notes/31- Networking/31.11- VPC Flow Logs.md",
-    "notes/31- Networking/31.10- VPC Endpoint.md",
-    "img/Pasted image 20240504130624.png",
-    "img/Pasted image 20240504130609.png",
-    "notes/16- AWS DataSync/16.01- AWS DataSync.md",
-    "notes/31- Networking/31.09- VPC Peering.md",
-    "notes/31- Networking/31.08- NACL & Security Group.md",
-    "notes/31- Networking/31.07- NAT Gateway.md",
-    "notes/31- Networking/31.06- NAT Instance.md",
-    "notes/31- Networking/31.04- IGW & Route Tables.md",
-    "notes/31- Networking/31.02- Default VPC.md",
-    "notes/31- Networking/31.01- IP And CIDR.md",
     "notes/31- Networking",
-    "notes/15- AWS Transfer Family/15.01- AWS Transfer Family.md",
-    "notes/14- AWS Storage Gateway/14.01- AWS Storage Gateway.md",
-    "notes/14- AWS Storage Gateway/14.06- Storage Gateway Hardware Appliance.md",
     "notes/30- Encryptions & Secrets/Untitled",
     "notes/30- Security",
     "notes/29- Identity & Access Management",
-    "notes/28- Monitoring",
-    "notes/27- Machine learning in AWS",
-    "notes/26- Comparing DBs on AWS",
-    "notes/25- Other Serverless Services",
-    "notes/24- API Gateway",
     "Untitled.canvas"
   ]
 }
