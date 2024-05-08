@@ -23,9 +23,11 @@
             "id": "be2ae51f55750614",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20240505174956.png"
+                "file": "notes/06- RDS/06.09- RDS Aurora Features.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20240505174956.png",
+                "file": "notes/06- RDS/06.09- RDS Aurora Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/Pasted image 20240505174956.png",
+                "file": "notes/06- RDS/06.09- RDS Aurora Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/Pasted image 20240505174956.png"
+                "file": "notes/06- RDS/06.09- RDS Aurora Features.md"
               }
             }
           }
@@ -157,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11a40ab14882c66c",
+  "active": "be2ae51f55750614",
   "lastOpenFiles": [
+    "notes/05- ASG/05.03- Scaling Policy.md",
+    "notes/05- ASG/05.04- ASG Scaling Cooldown.md",
+    "img/Pasted image 20240505174956.png",
     "img/Pasted image 20240505171326.png",
     "img/Pasted image 20240505171219.png",
     "notes/33- Database Migration/33.04- Migrating to Aurora DB.md",
@@ -185,11 +190,9 @@
     "notes/33- Database Migration/33.01- Database Migration Service.md",
     "notes/33- Database Migration/33.03- DMS Multi AZ.md",
     "notes/34- AWS Backup/34.01- AWS Backup.md",
-    "notes/34- AWS Backup/34.02- AWS Backup Vault Lock.md",
     "notes/35- Application Migration",
     "notes/34- AWS Backup/Untitled",
     "notes/34- AWS Backup",
-    "img/Pasted image 20240505174956.png",
     "notes/33- Database Migration",
     "img/Pasted image 20240505170748.png",
     "img/Pasted image 20240505170600.png",
