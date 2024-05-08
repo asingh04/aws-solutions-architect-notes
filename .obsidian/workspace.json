@@ -161,6 +161,11 @@
   },
   "active": "be2ae51f55750614",
   "lastOpenFiles": [
+    "notes/36- Other AWS Serices/03- Other services.md",
+    "notes/36- Other AWS Serices/02- System Manager.md",
+    "notes/36- Other AWS Serices/01- CloudFormation.md",
+    "notes/36- Other AWS Serices",
+    "notes/0- Misc/0.2- High Performance Computing.md",
     "notes/05- ASG/05.03- Scaling Policy.md",
     "notes/05- ASG/05.04- ASG Scaling Cooldown.md",
     "img/Pasted image 20240505174956.png",
@@ -186,10 +191,6 @@
     "notes/15- AWS Transfer Family/15.01- AWS Transfer Family.md",
     "notes/35- Application Migration/35.02- AWS Application Migration Service.md",
     "notes/35- Application Migration/35.01- AWS Application Discovery Service.md",
-    "notes/32- Disaster Recovery/32.07- VM Recovery.md",
-    "notes/33- Database Migration/33.01- Database Migration Service.md",
-    "notes/33- Database Migration/33.03- DMS Multi AZ.md",
-    "notes/34- AWS Backup/34.01- AWS Backup.md",
     "notes/35- Application Migration",
     "notes/34- AWS Backup/Untitled",
     "notes/34- AWS Backup",
@@ -206,7 +207,6 @@
     "notes/31- Networking",
     "notes/30- Encryptions & Secrets/Untitled",
     "notes/30- Security",
-    "notes/29- Identity & Access Management",
     "Untitled.canvas"
   ]
 }
