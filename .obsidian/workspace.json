@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/36- Other AWS Serices/03- Other services.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/36- Other AWS Serices/03- Other services.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/36- Other AWS Serices/03- Other services.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/36- Other AWS Serices/03- Other services.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "2bbd7faf8340220e",
   "lastOpenFiles": [
+    "notes/36- Other AWS Serices/03- Other services.md",
     "notes/04- ELB/04.08- Connection Draining.md",
     "notes/02- EC2/02.11 - EC2 AMI (Amazon Machine Image).md",
     "notes/02- EC2/2.12- Instance Metadata.md",
@@ -183,7 +184,6 @@
     "notes/16- AWS DataSync/16.01- AWS DataSync.md",
     "notes/02- EC2/02.02- EC2 User Data.md",
     "notes/03- EC2 Storage/03.02- EBS Delete on Termination.md",
-    "notes/36- Other AWS Serices/03- Other services.md",
     "notes/35- Application Migration/35.03- VMWare Cloud on AWS.md",
     "notes/35- Application Migration/35.02- AWS Application Migration Service.md",
     "notes/35- Application Migration/35.01- AWS Application Discovery Service.md",
