@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/02- EC2/02.12- Instance Metadata.md",
+                "file": "notes/06- RDS/06.01- RDS intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "warmup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/02- EC2/02.12- Instance Metadata.md",
+                "file": "notes/06- RDS/06.01- RDS intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/02- EC2/02.12- Instance Metadata.md",
+                "file": "notes/06- RDS/06.01- RDS intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/02- EC2/02.12- Instance Metadata.md"
+                "file": "notes/06- RDS/06.01- RDS intro.md"
               }
             }
           }
@@ -161,32 +161,32 @@
   },
   "active": "be2ae51f55750614",
   "lastOpenFiles": [
-    "notes/02- EC2/02.10- EC2 Hibernate.md",
-    "notes/02- EC2/02.09- EC2 Elastic Network Interface (ENI).md",
-    "notes/02- EC2/02.08- EC2 Placement Groups.md",
-    "notes/02- EC2/02.12- Instance Metadata.md",
-    "notes/02- EC2/02.11 - EC2 AMI (Amazon Machine Image).md",
-    "notes/02- EC2/02.07- EC2 Spot Requests + Spot Fleet.md",
-    "notes/02- EC2/02.06- EC2 Instance Purchasing Options (IMP).md",
-    "notes/03- EC2 Storage/03.04- EC2 Instance Storage.md",
-    "notes/02- EC2/02.05- EC2 IAM Roles.md",
-    "notes/02- EC2/02.04- Security Groups.md",
-    "notes/02- EC2/02.03- EC2 Instance Types.md",
-    "notes/02- EC2/02.02- EC2 User Data.md",
-    "notes/02- EC2/02.01- EC2.md",
+    "notes/05- ASG/05.04- ASG Scaling Cooldown.md",
+    "notes/05- ASG/05.03- Scaling Policy.md",
+    "notes/05- ASG/05.02- ASG + CloudWatch Alarm.md",
+    "notes/05- ASG/05.01- ASG.md",
+    "notes/04- ELB/04.08- Connection Draining.md",
     "notes/04- ELB/04.07- SSL Certificates.md",
-    "notes/04- ELB/04.06- Cross Zone Load Balancing.md",
     "notes/04- ELB/04.05- ELB Sticky Sessions.md",
-    "notes/03- EC2 Storage/03.10- EBS Encryption.md",
-    "notes/03- EC2 Storage/03.09- EBS Multi-Attach.md",
+    "notes/04- ELB/04.03- NLB.md",
+    "notes/04- ELB/04.04- GWLB.md",
+    "notes/04- ELB/04.02- ALB.md",
+    "notes/04- ELB/04.01- ELB.md",
+    "notes/03- EC2 Storage/03.13- EBS vs EFS.md",
+    "notes/03- EC2 Storage/03.12- Elastic File System (EFS).md",
+    "notes/03- EC2 Storage/03.11- EBS Encryption.md",
+    "notes/03- EC2 Storage/03.10- EBS Multi-Attach.md",
     "notes/03- EC2 Storage/03.08- EBS Hard Disk Drives.md",
+    "notes/03- EC2 Storage/03.09- EBS Storage Type Compared.md",
     "notes/03- EC2 Storage/03.07- EBS Provisions IOPS SSD.md",
     "notes/03- EC2 Storage/03.06- EBS - General Purpose SSD.md",
     "notes/03- EC2 Storage/03.05- EBS Volume Types.md",
-    "notes/01- IAM and Permissions/01.06- Other IAM tools.md",
-    "notes/01- IAM and Permissions/01.05- IAM Roles.md",
-    "notes/01- IAM and Permissions/01.04- Access Key & CLI & CloudShell.md",
-    "notes/01- IAM and Permissions/01.02- IAM Policies.md",
+    "notes/03- EC2 Storage/03.04- EC2 Instance Storage.md",
+    "notes/03- EC2 Storage/03.03- EBS Snapshot.md",
+    "notes/03- EC2 Storage/03.02- EBS Delete on Termination.md",
+    "notes/03- EC2 Storage/03.01- EBS ( Elastic Block Storage).md",
+    "notes/25- Other Serverless Services/25.02- AWS COGNITO.md",
+    "notes/04- ELB/04.06- Cross Zone Load Balancing.md",
     "notes/36- Other AWS Serices",
     "img/Pasted image 20240505174956.png",
     "img/Pasted image 20240505171326.png",
