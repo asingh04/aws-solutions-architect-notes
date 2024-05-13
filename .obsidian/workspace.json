@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/06- RDS/06.17- RDS Security.md",
+                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 499.5
   },
   "right": {
     "id": "5e696f9cfa3a3c16",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/06- RDS/06.17- RDS Security.md",
+                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/06- RDS/06.17- RDS Security.md",
+                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/06- RDS/06.17- RDS Security.md"
+                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md"
               }
             }
           }
@@ -161,32 +161,32 @@
   },
   "active": "be2ae51f55750614",
   "lastOpenFiles": [
-    "notes/06- RDS/06.18- RDS Proxy.md",
-    "notes/06- RDS/06.17- RDS Security.md",
-    "notes/06- RDS/06.16- RDS Encryption.md",
-    "notes/06- RDS/06.15- RDS Snapshot Restore.md",
-    "notes/06- RDS/06.14- Aurora Backups.md",
-    "notes/06- RDS/06.13- RDS Backups.md",
-    "notes/06- RDS/06.12- Aurora Machine Learning.md",
-    "notes/06- RDS/06.11- Global Aurora.md",
-    "notes/06- RDS/06.07- Amazon Aurora.md",
-    "notes/06- RDS/06.08- Aurora Cluster.md",
-    "notes/06- RDS/06.09- RDS Aurora Features.md",
-    "notes/06- RDS/06.10- Aurora Serverless.md",
-    "notes/06- RDS/06.06-  RDS Custom.md",
-    "notes/06- RDS/06.05- RDS Multi AZ.md",
-    "notes/06- RDS/06.04- RDS Read Replica Cost.md",
-    "notes/06- RDS/06.03- RDS Read Replicas.md",
-    "notes/06- RDS/06.02- RDS Storage Auto Scaling.md",
-    "notes/06- RDS/06.01- RDS intro.md",
-    "notes/05- ASG/05.04- ASG Scaling Cooldown.md",
-    "notes/05- ASG/05.03- Scaling Policy.md",
-    "notes/05- ASG/05.02- ASG + CloudWatch Alarm.md",
-    "notes/05- ASG/05.01- ASG.md",
-    "notes/04- ELB/04.08- Connection Draining.md",
-    "notes/04- ELB/04.07- SSL Certificates.md",
-    "notes/04- ELB/04.05- ELB Sticky Sessions.md",
-    "notes/04- ELB/04.03- NLB.md",
+    "notes/17- SQS/17.01- SQS.md",
+    "notes/16- AWS DataSync/16.01- AWS DataSync.md",
+    "notes/15- AWS Transfer Family/15.01- AWS Transfer Family.md",
+    "notes/14- AWS Storage Gateway/14.06- Storage Gateway Hardware Appliance.md",
+    "notes/14- AWS Storage Gateway/14.05- Tape Gateway.md",
+    "notes/14- AWS Storage Gateway/14.04- AWS Volume Gateway.md",
+    "notes/14- AWS Storage Gateway/14.03- AWS FSx File Gateway.md",
+    "notes/14- AWS Storage Gateway/14.02- S3 File Gateway.md",
+    "notes/14- AWS Storage Gateway/14.01- AWS Storage Gateway.md",
+    "notes/13- AWS FSx/13.05- FSx for OpenZFS.md",
+    "notes/13- AWS FSx/13.04- FSx for NetApp ONTAP.md",
+    "notes/13- AWS FSx/13.03- FSx for Lustre.md",
+    "notes/13- AWS FSx/13.02- FSx for Windows.md",
+    "notes/13- AWS FSx/13.01- AWS FSx.md",
+    "notes/12- AWS Snow/12.03- Edge Computing.md",
+    "notes/12- AWS Snow/12.02- Data Migration.md",
+    "notes/12- AWS Snow/12.01- AWS Snow.md",
+    "notes/07- ElasticCache/7.01- AWS ElasticCache.md",
+    "notes/07- ElasticCache/7.02- Cache Security.md",
+    "notes/11- CloudFront/11.07- CloudFront vs Global Accelerator.md",
+    "notes/11- CloudFront/11.01- CloudFront vs S3.md",
+    "notes/11- CloudFront/11.06- Global Accelerator.md",
+    "notes/11- CloudFront/11.05- Cache Invalidation.md",
+    "notes/11- CloudFront/11.04- Price Classes.md",
+    "notes/11- CloudFront/11.03- Geo Restriction.md",
+    "notes/11- CloudFront/11.02- ALB or EC2 as Origin.md",
     "notes/36- Other AWS Serices",
     "img/Pasted image 20240505174956.png",
     "img/Pasted image 20240505171326.png",
