@@ -9,6 +9,11 @@ Hi 👋
 
 The following are the compiled and abridged notes for the AWS Solutions Architect Associate level Certification Exam.
 
+- Refer the notes in the `notes/` directory.
+- The notes are in **Markdown format**.
+- The notes are prepared using [Obsidian Editor](https://obsidian.md/) and are best viewed using it.
+
+
 **PS:** The notes are compiled from the Udemy Course by Stephane Maarek. All credits to him and his team to provide an organised and to the point information required for the exam. Please refer to his udemy course for proper exam material.
 
 
