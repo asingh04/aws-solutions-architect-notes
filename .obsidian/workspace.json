@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/02- EC2/02.02- EC2 User Data.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/02- EC2/02.02- EC2 User Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/02- EC2/02.02- EC2 User Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/02- EC2/02.02- EC2 User Data.md"
               }
             }
           }
@@ -161,17 +161,22 @@
   },
   "active": "2bbd7faf8340220e",
   "lastOpenFiles": [
+    "notes/02- EC2/02.01- EC2.md",
+    "notes/02- EC2/2.12- Instance Metadata.md",
+    "notes/02- EC2/02.11 - EC2 AMI (Amazon Machine Image).md",
+    "notes/02- EC2/02.10- EC2 Hibernate.md",
+    "notes/02- EC2/02.09- EC2 Elastic Network Interface (ENI).md",
+    "notes/0- Misc/0.1- Public vs Private vs ELastic IP.md",
+    "notes/0- Misc/0.2- High Performance Computing.md",
+    "notes/02- EC2/02.08- EC2 Placement Groups.md",
+    "notes/01- IAM and Permissions/01.01- Users and Group.md",
+    "workshop-notes/1- AWS Locations.md",
+    "README.md",
     "notes/36- Other AWS Serices/03- Other services.md",
     "notes/04- ELB/04.08- Connection Draining.md",
-    "notes/02- EC2/02.11 - EC2 AMI (Amazon Machine Image).md",
-    "notes/02- EC2/2.12- Instance Metadata.md",
-    "notes/02- EC2/02.01- EC2.md",
-    "notes/02- EC2/02.10- EC2 Hibernate.md",
     "notes/02- EC2/02.04- Security Groups.md",
     "notes/02- EC2/02.03- EC2 Instance Types.md",
     "notes/02- EC2/02.06- EC2 Instance Purchasing Options (IMP).md",
-    "notes/02- EC2/02.08- EC2 Placement Groups.md",
-    "notes/02- EC2/02.09- EC2 Elastic Network Interface (ENI).md",
     "notes/32- Disaster Recovery/32.07- VM Recovery.md",
     "notes/32- Disaster Recovery/32.06- DR Tricks + Tips (IMP for EXAMS).md",
     "notes/32- Disaster Recovery/32.05- Hot Site or Multi Site Approach.md",
@@ -182,11 +187,6 @@
     "notes/21- Containers on AWS/21.05- ECS Auto Scaling Group.md",
     "notes/20- AWS MQ/20.01- AWS MQ.md",
     "notes/16- AWS DataSync/16.01- AWS DataSync.md",
-    "notes/02- EC2/02.02- EC2 User Data.md",
-    "notes/03- EC2 Storage/03.02- EBS Delete on Termination.md",
-    "notes/35- Application Migration/35.03- VMWare Cloud on AWS.md",
-    "notes/35- Application Migration/35.02- AWS Application Migration Service.md",
-    "notes/35- Application Migration/35.01- AWS Application Discovery Service.md",
     "notes/35- Application Migration",
     "notes/34- AWS Backup",
     "notes/33- Database Migration",
