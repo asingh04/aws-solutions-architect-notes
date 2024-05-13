@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/16- AWS DataSync/16.01- AWS DataSync.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "be2ae51f55750614",
   "lastOpenFiles": [
-    "notes/17- SQS/17.01- SQS.md",
     "notes/16- AWS DataSync/16.01- AWS DataSync.md",
+    "notes/17- SQS/17.01- SQS.md",
     "notes/15- AWS Transfer Family/15.01- AWS Transfer Family.md",
     "notes/14- AWS Storage Gateway/14.06- Storage Gateway Hardware Appliance.md",
     "notes/14- AWS Storage Gateway/14.05- Tape Gateway.md",
