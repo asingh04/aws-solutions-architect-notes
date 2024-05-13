@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/02- EC2/02.02- EC2 User Data.md",
-                "mode": "preview",
+                "file": "notes/02- EC2/02.10- EC2 Hibernate.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/02- EC2/02.02- EC2 User Data.md",
+                "file": "notes/02- EC2/02.10- EC2 Hibernate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/02- EC2/02.02- EC2 User Data.md",
+                "file": "notes/02- EC2/02.10- EC2 Hibernate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/02- EC2/02.02- EC2 User Data.md"
+                "file": "notes/02- EC2/02.10- EC2 Hibernate.md"
               }
             }
           }
@@ -161,11 +161,23 @@
   },
   "active": "2bbd7faf8340220e",
   "lastOpenFiles": [
+    "notes/02- EC2/02.09- EC2 Elastic Network Interface (ENI).md",
+    "notes/02- EC2/02.10- EC2 Hibernate.md",
+    "notes/02- EC2/02.02- EC2 User Data.md",
+    "notes/08- Route 53/08.13- Multi - Value Routing.md",
+    "notes/08- Route 53/08.12- I.P. Based Routing.md",
+    "notes/08- Route 53/08.11- GeoProximity Routing.md",
+    "notes/08- Route 53/08.10- Geolocation Routing.md",
+    "notes/08- Route 53/08.09- Failover Routing.md",
+    "notes/03- EC2 Storage/03.13- EBS vs EFS.md",
+    "notes/03- EC2 Storage/03.12- Elastic File System (EFS).md",
+    "notes/03- EC2 Storage/03.11- EBS Encryption.md",
+    "notes/03- EC2 Storage/03.10- EBS Multi-Attach.md",
+    "notes/03- EC2 Storage/03.09- EBS Storage Type Compared.md",
+    "notes/02- EC2/02.12- Instance Metadata.md",
     "notes/02- EC2/02.01- EC2.md",
     "notes/02- EC2/2.12- Instance Metadata.md",
     "notes/02- EC2/02.11 - EC2 AMI (Amazon Machine Image).md",
-    "notes/02- EC2/02.10- EC2 Hibernate.md",
-    "notes/02- EC2/02.09- EC2 Elastic Network Interface (ENI).md",
     "notes/0- Misc/0.1- Public vs Private vs ELastic IP.md",
     "notes/0- Misc/0.2- High Performance Computing.md",
     "notes/02- EC2/02.08- EC2 Placement Groups.md",
@@ -175,18 +187,6 @@
     "notes/36- Other AWS Serices/03- Other services.md",
     "notes/04- ELB/04.08- Connection Draining.md",
     "notes/02- EC2/02.04- Security Groups.md",
-    "notes/02- EC2/02.03- EC2 Instance Types.md",
-    "notes/02- EC2/02.06- EC2 Instance Purchasing Options (IMP).md",
-    "notes/32- Disaster Recovery/32.07- VM Recovery.md",
-    "notes/32- Disaster Recovery/32.06- DR Tricks + Tips (IMP for EXAMS).md",
-    "notes/32- Disaster Recovery/32.05- Hot Site or Multi Site Approach.md",
-    "notes/32- Disaster Recovery/32.02- Backup and Restore.md",
-    "notes/32- Disaster Recovery/32.04- Warm Standby.md",
-    "notes/32- Disaster Recovery/32.03- Pilot Light.md",
-    "notes/32- Disaster Recovery/32.01- Disaster Recovery Concepts.md",
-    "notes/21- Containers on AWS/21.05- ECS Auto Scaling Group.md",
-    "notes/20- AWS MQ/20.01- AWS MQ.md",
-    "notes/16- AWS DataSync/16.01- AWS DataSync.md",
     "notes/35- Application Migration",
     "notes/34- AWS Backup",
     "notes/33- Database Migration",
