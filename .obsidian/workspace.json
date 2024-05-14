@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workshop-notes/3- VPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bbd7faf8340220e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "notes/31- Networking/31.06- NAT Instance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deregistra",
+                "query": "consolidated",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/31- Networking/31.06- NAT Instance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/31- Networking/31.06- NAT Instance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/31- Networking/31.06- NAT Instance.md"
               }
             }
           }
@@ -159,54 +146,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bbd7faf8340220e",
+  "active": "a736f6edaa6b7b56",
   "lastOpenFiles": [
-    "notes/02- EC2/02.10- EC2 Hibernate.md",
-    "notes/02- EC2/02.09- EC2 Elastic Network Interface (ENI).md",
-    "notes/02- EC2/02.02- EC2 User Data.md",
-    "notes/08- Route 53/08.13- Multi - Value Routing.md",
-    "notes/08- Route 53/08.12- I.P. Based Routing.md",
-    "notes/08- Route 53/08.11- GeoProximity Routing.md",
-    "notes/08- Route 53/08.10- Geolocation Routing.md",
-    "notes/08- Route 53/08.09- Failover Routing.md",
-    "notes/03- EC2 Storage/03.13- EBS vs EFS.md",
-    "notes/03- EC2 Storage/03.12- Elastic File System (EFS).md",
-    "notes/03- EC2 Storage/03.11- EBS Encryption.md",
-    "notes/03- EC2 Storage/03.10- EBS Multi-Attach.md",
-    "notes/03- EC2 Storage/03.09- EBS Storage Type Compared.md",
-    "notes/02- EC2/02.12- Instance Metadata.md",
-    "notes/02- EC2/02.01- EC2.md",
-    "notes/02- EC2/2.12- Instance Metadata.md",
-    "notes/02- EC2/02.11 - EC2 AMI (Amazon Machine Image).md",
-    "notes/0- Misc/0.1- Public vs Private vs ELastic IP.md",
-    "notes/0- Misc/0.2- High Performance Computing.md",
-    "notes/02- EC2/02.08- EC2 Placement Groups.md",
-    "notes/01- IAM and Permissions/01.01- Users and Group.md",
-    "workshop-notes/1- AWS Locations.md",
-    "README.md",
+    "Pasted.md",
+    "notes/31- Networking/31.06- NAT Instance.md",
+    "Pasted image 20240416123629.png.md",
+    "notes/29- Identity & Access Management/29.01- AWS Organizations.md",
     "notes/36- Other AWS Serices/03- Other services.md",
-    "notes/04- ELB/04.08- Connection Draining.md",
-    "notes/02- EC2/02.04- Security Groups.md",
+    "notes/36- Other AWS Serices/01- CloudFormation.md",
+    "notes/31- Networking/31.09- VPC Peering & Sharing.md",
+    "notes/03- EC2 Storage/03.12- Elastic File System (EFS).md",
+    "notes/10- S3/10.08- S3 features.md",
+    "notes/07- ElasticCache/7.02- Cache Security.md",
+    "notes/07- ElasticCache/7.01- AWS ElasticCache.md",
+    "notes/11- CloudFront/11.06- Global Accelerator.md",
+    "notes/11- CloudFront/11.07- CloudFront vs Global Accelerator.md",
+    "notes/03- EC2 Storage/03.11- EBS Encryption.md",
+    "notes/03- EC2 Storage/03.05- EBS Volume Types.md",
+    "notes/03- EC2 Storage/03.04- EC2 Instance Storage.md",
+    "notes/03- EC2 Storage/03.03- EBS Snapshot.md",
+    "notes/03- EC2 Storage/03.02- EBS Delete on Termination.md",
+    "notes/02- EC2/02.11- EC2 AMI (Amazon Machine Image).md",
+    "notes/02- EC2/02.08- EC2 Placement Groups.md",
+    "notes/18- SNS/18.01- SNS.md",
+    "notes/19- Kinesis/19.02- Kinesis Data Stream.md",
+    "notes/02- EC2/02.02- EC2 User Data.md",
+    "notes/31- Networking/31.13- VPN CloudHub.md",
+    "notes/31- Networking/31.08- NACL & Security Group.md",
+    "notes/31- Networking/31.07- NAT Gateway.md",
+    "img/Pasted_image_20240505174956.png",
+    "img/Pasted_image_20240505171326.png",
+    "img/Pasted_image_20240505171219.png",
+    "img/Pasted_image_20240505170748.png",
+    "img/Pasted_image_20240505170604.png",
+    "img/Pasted_image_20240505170600.png",
+    "img/Pasted_image_20240505165755.png",
+    "img/Pasted_image_20240504221123.png",
+    "img/Pasted_image_20240504164914.png",
+    "img/Pasted_image_20240504164141.png",
+    "ls",
     "notes/35- Application Migration",
     "notes/34- AWS Backup",
     "notes/33- Database Migration",
     "notes/32- Disaster Recovery",
-    "img/Pasted image 20240505174956.png",
-    "img/Pasted image 20240505171326.png",
-    "img/Pasted image 20240505171219.png",
-    "img/Pasted image 20240505170748.png",
-    "img/Pasted image 20240505170604.png",
-    "img/Pasted image 20240505170600.png",
-    "img/Pasted image 20240505165755.png",
     "notes/36- Other AWS Serices",
-    "img/Pasted image 20240504221123.png",
-    "img/Pasted image 20240504164914.png",
-    "img/Pasted image 20240504164141.png",
     "notes/31- Networking/Untitled",
     "notes/31- Networking",
     "notes/30- Security",
     "notes/29- Identity & Access Management",
-    "notes/28- Monitoring",
     "Untitled.canvas"
   ]
 }
