@@ -6,6 +6,7 @@
 # COst Explorer
 
 - Visualize, understand, report, analyse, forecast and manage AWS cost over time
+- **AWS Compute Optimizer / Resource Optimizer** recommends optimal AWS Compute resources for your workloads to reduce costs and improve performance by using machine learning to analyze historical utilization metrics.
 
 ## AWS Batch
 
