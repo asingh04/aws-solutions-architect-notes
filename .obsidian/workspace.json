@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "577036b96db8ec0f",
+        "id": "d1e642f9403a8334",
         "type": "tabs",
         "children": [
           {
-            "id": "a736f6edaa6b7b56",
+            "id": "17356f40fe7cc05f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/10- S3/10.06- S3 Storage Classes.md",
+                "file": "notes/10- S3/10.13- S3 Sync Command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be2ae51f55750614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/36- Other AWS Serices/03- Other services.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Transcribe",
+                "query": "storage clustering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 343.5
   },
   "right": {
     "id": "5e696f9cfa3a3c16",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/10- S3/10.06- S3 Storage Classes.md",
+                "file": "notes/10- S3/10.13- S3 Sync Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/10- S3/10.06- S3 Storage Classes.md",
+                "file": "notes/10- S3/10.13- S3 Sync Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/10- S3/10.06- S3 Storage Classes.md"
+                "file": "notes/10- S3/10.13- S3 Sync Command.md"
               }
             }
           }
@@ -146,54 +158,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a736f6edaa6b7b56",
+  "active": "17356f40fe7cc05f",
   "lastOpenFiles": [
-    "notes/27- Machine learning in AWS/27.01- Machine Learning Services.md",
-    "notes/26- Comparing DBs on AWS/26.02- AWS Athena.md",
-    "notes/26- Comparing DBs on AWS/26.06- QuickSight.md",
-    "notes/34- AWS Backup/34.01- AWS Backup.md",
-    "notes/29- Identity & Access Management/29.07- AWS Control Tower.md",
-    "notes/28- Monitoring/28.10- AWS Config.md",
+    "notes/10- S3/10.05- S3 Replication.md",
+    "notes/10- S3/10.13- S3 Sync Command.md",
+    "notes/03- EC2 Storage/03.06- EBS - General Purpose SSD.md",
+    "notes/01- IAM and Permissions/01.05- IAM Roles.md",
+    "notes/26- Comparing DBs on AWS/26.01- Comparing Databases on AWS.md",
+    "notes/02- EC2/02.11- EC2 AMI (Amazon Machine Image).md",
+    "notes/36- Other AWS Serices/02- System Manager.md",
+    "notes/11- CloudFront/11.01- CloudFront vs S3.md",
+    "notes/11- CloudFront/11.07- CloudFront vs Global Accelerator.md",
+    "notes/11- CloudFront/11.03- Geo Restriction.md",
+    "notes/11- CloudFront/11.02- ALB or EC2 as Origin.md",
+    "notes/05- ASG/05.06- ASG Instance Termination Policy.md",
+    "notes/05- ASG/05.05- Launch Configuration vs Launch Template.md",
+    "notes/05- ASG/05.01- ASG.md",
+    "notes/05- ASG/05.02- ASG + CloudWatch Alarm.md",
+    "notes/03- EC2 Storage/03.11- EBS Encryption.md",
+    "notes/19- Kinesis/19.02- Kinesis Data Stream.md",
+    "notes/26- Comparing DBs on AWS/26.09- Kinesis Data Analytics.md",
+    "notes/36- Other AWS Serices/03- Other services.md",
+    "notes/10- S3/10.08- S3 features.md",
+    "notes/10- S3/10.07- S3 Lifecycle Rules.md",
+    "notes/10- S3/10.06- S3 Storage Classes.md",
+    "notes/10- S3/10.10- S3 Performance.md",
+    "notes/10- S3/10.11- S3 Storage Lens.md",
+    "notes/10- S3/10.12- S3 Encryption.md",
+    "notes/04- ELB/04.02- ALB.md",
+    "img/Pasted_image_20240516151639.png",
+    "img/Pasted_image_20240516145729.png",
+    "notes/15- AWS Transfer Family",
     "img/Pasted_image_20240515165540.png",
-    "notes/29- Identity & Access Management/29.06- AWS Directory Service.md",
-    "img/Pasted_image_20240505174956.png",
-    "img/Pasted_image_20240515164857.png",
     "img/Pasted_image_20240515165058.png",
-    "notes/29- Identity & Access Management/29.05- AWS IAM Identity Center.md",
-    "notes/29- Identity & Access Management/29.04- IAM Permission Boundary.md",
-    "notes/29- Identity & Access Management/29.03- IAM Roles vs Resource Policy.md",
-    "notes/29- Identity & Access Management/29.02- IAM Conditions.md",
-    "notes/29- Identity & Access Management/29.01- AWS Organizations.md",
-    "notes/28- Monitoring/28.01- CloudWatch Metrics.md",
-    "notes/30- Security/30.05- S3 Replication + Encryption.md",
-    "notes/30- Security/30.04- KMS Multi-Region Keys.md",
-    "notes/30- Security/30.03- KMS Keys Policies.md",
-    "notes/30- Security/30.07- SSM Parameter Store.md",
-    "notes/30- Security/30.08- AWS Secrets Manager.md",
-    "notes/30- Security/30.09- ACM.md",
-    "notes/28- Monitoring/28.09- CloudTrail + EventBridge.md",
-    "notes/28- Monitoring/28.08- CloudTrail Insights.md",
-    "notes/28- Monitoring/28.07- CLoudTrail.md",
-    "notes/28- Monitoring/28.02- CloudWatch Logs.md",
-    "notes/28- Monitoring/28.05- Amazon EventBridge.md",
-    "notes/28- Monitoring/28.04- CloudWatch Alarm.md",
-    "notes/28- Monitoring/28.06- CloudWatch Insights.md",
+    "img/Pasted_image_20240515164857.png",
+    "img/Pasted_image_20240505174956.png",
     "img/Pasted_image_20240505171326.png",
     "img/Pasted_image_20240505171219.png",
     "img/Pasted_image_20240505170748.png",
     "img/Pasted_image_20240505170604.png",
-    "img/Pasted_image_20240505170600.png",
-    "img/Pasted_image_20240505165755.png",
-    "ls",
+    "notes/36- Other AWS Serices",
     "notes/35- Application Migration",
+    "notes/34- AWS Backup/Untitled",
     "notes/34- AWS Backup",
     "notes/33- Database Migration",
     "notes/32- Disaster Recovery",
-    "notes/36- Other AWS Serices",
     "notes/31- Networking/Untitled",
     "notes/31- Networking",
-    "notes/30- Security",
-    "notes/29- Identity & Access Management",
+    "notes/30- Encryptions & Secrets/Untitled",
     "Untitled.canvas"
   ]
 }
