@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/10- S3/10.13- S3 Sync Command.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/10- S3/10.13- S3 Sync Command.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/10- S3/10.13- S3 Sync Command.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/10- S3/10.13- S3 Sync Command.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "17356f40fe7cc05f",
   "lastOpenFiles": [
-    "notes/10- S3/10.05- S3 Replication.md",
     "notes/10- S3/10.13- S3 Sync Command.md",
+    "notes/10- S3/10.05- S3 Replication.md",
     "notes/03- EC2 Storage/03.06- EBS - General Purpose SSD.md",
     "notes/01- IAM and Permissions/01.05- IAM Roles.md",
     "notes/26- Comparing DBs on AWS/26.01- Comparing Databases on AWS.md",
