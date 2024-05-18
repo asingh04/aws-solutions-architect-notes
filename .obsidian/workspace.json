@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/31- Networking/31.00- Complete VPC State.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/36- Other AWS Serices/03- Other services.md",
+                "file": "notes/30- Security/30.05- KMS CMK Deletion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "storage clustering",
+                "query": "GuardDuty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/30- Security/30.05- KMS CMK Deletion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/30- Security/30.05- KMS CMK Deletion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/30- Security/30.05- KMS CMK Deletion.md"
               }
             }
           }
@@ -158,34 +159,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17356f40fe7cc05f",
+  "active": "be2ae51f55750614",
   "lastOpenFiles": [
-    "notes/10- S3/10.13- S3 Sync Command.md",
-    "notes/10- S3/10.05- S3 Replication.md",
-    "notes/03- EC2 Storage/03.06- EBS - General Purpose SSD.md",
-    "notes/01- IAM and Permissions/01.05- IAM Roles.md",
-    "notes/26- Comparing DBs on AWS/26.01- Comparing Databases on AWS.md",
-    "notes/02- EC2/02.11- EC2 AMI (Amazon Machine Image).md",
-    "notes/36- Other AWS Serices/02- System Manager.md",
-    "notes/11- CloudFront/11.01- CloudFront vs S3.md",
-    "notes/11- CloudFront/11.07- CloudFront vs Global Accelerator.md",
-    "notes/11- CloudFront/11.03- Geo Restriction.md",
-    "notes/11- CloudFront/11.02- ALB or EC2 as Origin.md",
-    "notes/05- ASG/05.06- ASG Instance Termination Policy.md",
-    "notes/05- ASG/05.05- Launch Configuration vs Launch Template.md",
-    "notes/05- ASG/05.01- ASG.md",
-    "notes/05- ASG/05.02- ASG + CloudWatch Alarm.md",
+    "notes/30- Security/30.04- KMS Multi-Region Keys.md",
+    "notes/30- Security/30.05- KMS CMK Deletion.md",
+    "notes/30- Security/30.03- KMS Keys Policies.md",
+    "notes/30- Security/30.02- KMS Keys Ownership.md",
+    "notes/03- EC2 Storage/03.12- Elastic File System (EFS).md",
     "notes/03- EC2 Storage/03.11- EBS Encryption.md",
-    "notes/19- Kinesis/19.02- Kinesis Data Stream.md",
-    "notes/26- Comparing DBs on AWS/26.09- Kinesis Data Analytics.md",
-    "notes/36- Other AWS Serices/03- Other services.md",
-    "notes/10- S3/10.08- S3 features.md",
-    "notes/10- S3/10.07- S3 Lifecycle Rules.md",
-    "notes/10- S3/10.06- S3 Storage Classes.md",
     "notes/10- S3/10.10- S3 Performance.md",
-    "notes/10- S3/10.11- S3 Storage Lens.md",
-    "notes/10- S3/10.12- S3 Encryption.md",
-    "notes/04- ELB/04.02- ALB.md",
+    "notes/10- S3/10.08- S3 features.md",
+    "notes/10- S3/10.06- S3 Storage Classes.md",
+    "notes/10- S3/10.04- S3 Versioning.md",
+    "notes/10- S3/10.02- S3 Security Summary.md",
+    "notes/10- S3/10.03- Bucket Policy.md",
+    "notes/30- Security/30.13- AWS GuardDuty.md",
+    "notes/14- AWS Storage Gateway/14.06- Storage Gateway Hardware Appliance.md",
+    "notes/14- AWS Storage Gateway/14.05- Tape Gateway.md",
+    "notes/14- AWS Storage Gateway/14.04- AWS Volume Gateway.md",
+    "notes/14- AWS Storage Gateway/14.03- AWS FSx File Gateway.md",
+    "notes/14- AWS Storage Gateway/14.02- S3 File Gateway.md",
+    "notes/14- AWS Storage Gateway/14.01- AWS Storage Gateway.md",
+    "notes/06- RDS/06.09- RDS Aurora Features.md",
+    "notes/06- RDS/06.10- Aurora Serverless.md",
+    "notes/06- RDS/06.14- Aurora Backups.md",
+    "notes/06- RDS/06.12- Aurora Machine Learning.md",
+    "notes/06- RDS/06.05- RDS Multi AZ.md",
+    "notes/06- RDS/06.04- RDS Read Replica Cost.md",
+    "notes/06- RDS/06.03- RDS Read Replicas.md",
+    "img/Pasted_image_20240517125536.png",
     "img/Pasted_image_20240516151639.png",
     "img/Pasted_image_20240516145729.png",
     "notes/15- AWS Transfer Family",
@@ -196,7 +198,6 @@
     "img/Pasted_image_20240505171326.png",
     "img/Pasted_image_20240505171219.png",
     "img/Pasted_image_20240505170748.png",
-    "img/Pasted_image_20240505170604.png",
     "notes/36- Other AWS Serices",
     "notes/35- Application Migration",
     "notes/34- AWS Backup/Untitled",
