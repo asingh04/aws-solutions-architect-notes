@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/30- Security/30.05- KMS CMK Deletion.md",
+                "file": "notes/05- ASG/05.03- Scaling Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GuardDuty",
+                "query": "retention",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/30- Security/30.05- KMS CMK Deletion.md",
+                "file": "notes/05- ASG/05.03- Scaling Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/30- Security/30.05- KMS CMK Deletion.md",
+                "file": "notes/05- ASG/05.03- Scaling Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/30- Security/30.05- KMS CMK Deletion.md"
+                "file": "notes/05- ASG/05.03- Scaling Policy.md"
               }
             }
           }
@@ -161,16 +161,20 @@
   },
   "active": "be2ae51f55750614",
   "lastOpenFiles": [
-    "notes/30- Security/30.04- KMS Multi-Region Keys.md",
+    "notes/05- ASG/05.02- ASG + CloudWatch Alarm.md",
+    "notes/10- S3/10.08- S3 features.md",
+    "notes/10- S3/10.12- S3 Encryption.md",
+    "notes/10- S3/10.11- S3 Storage Lens.md",
+    "notes/10- S3/10.06- S3 Storage Classes.md",
+    "notes/13- AWS FSx/13.03- FSx for Lustre.md",
+    "notes/10- S3/10.04- S3 Versioning.md",
     "notes/30- Security/30.05- KMS CMK Deletion.md",
+    "notes/30- Security/30.04- KMS Multi-Region Keys.md",
     "notes/30- Security/30.03- KMS Keys Policies.md",
     "notes/30- Security/30.02- KMS Keys Ownership.md",
     "notes/03- EC2 Storage/03.12- Elastic File System (EFS).md",
     "notes/03- EC2 Storage/03.11- EBS Encryption.md",
     "notes/10- S3/10.10- S3 Performance.md",
-    "notes/10- S3/10.08- S3 features.md",
-    "notes/10- S3/10.06- S3 Storage Classes.md",
-    "notes/10- S3/10.04- S3 Versioning.md",
     "notes/10- S3/10.02- S3 Security Summary.md",
     "notes/10- S3/10.03- Bucket Policy.md",
     "notes/30- Security/30.13- AWS GuardDuty.md",
@@ -183,10 +187,6 @@
     "notes/06- RDS/06.09- RDS Aurora Features.md",
     "notes/06- RDS/06.10- Aurora Serverless.md",
     "notes/06- RDS/06.14- Aurora Backups.md",
-    "notes/06- RDS/06.12- Aurora Machine Learning.md",
-    "notes/06- RDS/06.05- RDS Multi AZ.md",
-    "notes/06- RDS/06.04- RDS Read Replica Cost.md",
-    "notes/06- RDS/06.03- RDS Read Replicas.md",
     "img/Pasted_image_20240517125536.png",
     "img/Pasted_image_20240516151639.png",
     "img/Pasted_image_20240516145729.png",
