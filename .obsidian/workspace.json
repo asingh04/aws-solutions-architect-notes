@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/05- ASG/05.03- Scaling Policy.md",
+                "file": "notes/26- Comparing DBs on AWS/26.03- RedShift.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "retention",
+                "query": "gateway endpoint",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/05- ASG/05.03- Scaling Policy.md",
+                "file": "notes/26- Comparing DBs on AWS/26.03- RedShift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/05- ASG/05.03- Scaling Policy.md",
+                "file": "notes/26- Comparing DBs on AWS/26.03- RedShift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/05- ASG/05.03- Scaling Policy.md"
+                "file": "notes/26- Comparing DBs on AWS/26.03- RedShift.md"
               }
             }
           }
@@ -161,32 +161,33 @@
   },
   "active": "be2ae51f55750614",
   "lastOpenFiles": [
-    "notes/05- ASG/05.02- ASG + CloudWatch Alarm.md",
-    "notes/10- S3/10.08- S3 features.md",
-    "notes/10- S3/10.12- S3 Encryption.md",
-    "notes/10- S3/10.11- S3 Storage Lens.md",
-    "notes/10- S3/10.06- S3 Storage Classes.md",
-    "notes/13- AWS FSx/13.03- FSx for Lustre.md",
-    "notes/10- S3/10.04- S3 Versioning.md",
-    "notes/30- Security/30.05- KMS CMK Deletion.md",
-    "notes/30- Security/30.04- KMS Multi-Region Keys.md",
-    "notes/30- Security/30.03- KMS Keys Policies.md",
-    "notes/30- Security/30.02- KMS Keys Ownership.md",
-    "notes/03- EC2 Storage/03.12- Elastic File System (EFS).md",
-    "notes/03- EC2 Storage/03.11- EBS Encryption.md",
+    "img/Pasted_image_20240518152729.png",
+    "notes/31- Networking/31.00- Complete VPC State.md",
+    "Pasted image 20240518153143.png",
+    "notes/26- Comparing DBs on AWS/26.03- RedShift.md",
+    "notes/07- ElasticCache/7.01- AWS ElasticCache.md",
+    "notes/07- ElasticCache/7.02- Cache Security.md",
+    "notes/31- Networking/31.10- VPC Endpoint.md",
+    "notes/24- API Gateway/24.02- API Gateway Fetaures.md",
+    "notes/10- S3/10.09- S3 Event Notification.md",
+    "notes/02- EC2/02.06- EC2 Instance Purchasing Options (IMP).md",
+    "notes/02- EC2/02.07- EC2 Spot Requests + Spot Fleet.md",
+    "notes/02- EC2/02.08- EC2 Placement Groups.md",
+    "notes/17- SQS/17.03- SQS Concepts.md",
     "notes/10- S3/10.10- S3 Performance.md",
-    "notes/10- S3/10.02- S3 Security Summary.md",
     "notes/10- S3/10.03- Bucket Policy.md",
-    "notes/30- Security/30.13- AWS GuardDuty.md",
-    "notes/14- AWS Storage Gateway/14.06- Storage Gateway Hardware Appliance.md",
-    "notes/14- AWS Storage Gateway/14.05- Tape Gateway.md",
-    "notes/14- AWS Storage Gateway/14.04- AWS Volume Gateway.md",
-    "notes/14- AWS Storage Gateway/14.03- AWS FSx File Gateway.md",
-    "notes/14- AWS Storage Gateway/14.02- S3 File Gateway.md",
-    "notes/14- AWS Storage Gateway/14.01- AWS Storage Gateway.md",
-    "notes/06- RDS/06.09- RDS Aurora Features.md",
-    "notes/06- RDS/06.10- Aurora Serverless.md",
-    "notes/06- RDS/06.14- Aurora Backups.md",
+    "notes/10- S3/10.04- S3 Versioning.md",
+    "notes/10- S3/10.08- S3 features.md",
+    "notes/0- Misc/0.2- High Performance Computing.md",
+    "notes/22- Lambda/22.04- Lambda Limits.md",
+    "notes/22- Lambda/22.01- AWS Lambda.md",
+    "notes/21- Containers on AWS/21.05- ECS Auto Scaling Group.md",
+    "notes/21- Containers on AWS/21.04- ECS + EFS.md",
+    "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md",
+    "notes/25- Other Serverless Services/25.01- AWS Step Functions.md",
+    "notes/26- Comparing DBs on AWS/26.09- Kinesis Data Analytics.md",
+    "notes/26- Comparing DBs on AWS/26.05- AWS EMR.md",
+    "notes/26- Comparing DBs on AWS/26.06- QuickSight.md",
     "img/Pasted_image_20240517125536.png",
     "img/Pasted_image_20240516151639.png",
     "img/Pasted_image_20240516145729.png",
@@ -196,8 +197,6 @@
     "img/Pasted_image_20240515164857.png",
     "img/Pasted_image_20240505174956.png",
     "img/Pasted_image_20240505171326.png",
-    "img/Pasted_image_20240505171219.png",
-    "img/Pasted_image_20240505170748.png",
     "notes/36- Other AWS Serices",
     "notes/35- Application Migration",
     "notes/34- AWS Backup/Untitled",
