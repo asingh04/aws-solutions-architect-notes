@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/26- Comparing DBs on AWS/26.03- RedShift.md",
+                "file": "notes/11- CloudFront/11.01- CloudFront vs S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gateway endpoint",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/26- Comparing DBs on AWS/26.03- RedShift.md",
+                "file": "notes/11- CloudFront/11.01- CloudFront vs S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/26- Comparing DBs on AWS/26.03- RedShift.md",
+                "file": "notes/11- CloudFront/11.01- CloudFront vs S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/26- Comparing DBs on AWS/26.03- RedShift.md"
+                "file": "notes/11- CloudFront/11.01- CloudFront vs S3.md"
               }
             }
           }
@@ -161,33 +161,34 @@
   },
   "active": "be2ae51f55750614",
   "lastOpenFiles": [
-    "img/Pasted_image_20240518152729.png",
-    "notes/31- Networking/31.00- Complete VPC State.md",
-    "Pasted image 20240518153143.png",
-    "notes/26- Comparing DBs on AWS/26.03- RedShift.md",
     "notes/07- ElasticCache/7.01- AWS ElasticCache.md",
-    "notes/07- ElasticCache/7.02- Cache Security.md",
-    "notes/31- Networking/31.10- VPC Endpoint.md",
-    "notes/24- API Gateway/24.02- API Gateway Fetaures.md",
-    "notes/10- S3/10.09- S3 Event Notification.md",
-    "notes/02- EC2/02.06- EC2 Instance Purchasing Options (IMP).md",
-    "notes/02- EC2/02.07- EC2 Spot Requests + Spot Fleet.md",
-    "notes/02- EC2/02.08- EC2 Placement Groups.md",
-    "notes/17- SQS/17.03- SQS Concepts.md",
-    "notes/10- S3/10.10- S3 Performance.md",
-    "notes/10- S3/10.03- Bucket Policy.md",
-    "notes/10- S3/10.04- S3 Versioning.md",
-    "notes/10- S3/10.08- S3 features.md",
-    "notes/0- Misc/0.2- High Performance Computing.md",
-    "notes/22- Lambda/22.04- Lambda Limits.md",
-    "notes/22- Lambda/22.01- AWS Lambda.md",
-    "notes/21- Containers on AWS/21.05- ECS Auto Scaling Group.md",
-    "notes/21- Containers on AWS/21.04- ECS + EFS.md",
-    "notes/21- Containers on AWS/21.03- ECS + Load Balancers.md",
-    "notes/25- Other Serverless Services/25.01- AWS Step Functions.md",
-    "notes/26- Comparing DBs on AWS/26.09- Kinesis Data Analytics.md",
-    "notes/26- Comparing DBs on AWS/26.05- AWS EMR.md",
-    "notes/26- Comparing DBs on AWS/26.06- QuickSight.md",
+    "notes/11- CloudFront/11.08- Pre-signed URL & Cookie.md",
+    "notes/03- EC2 Storage/03.05- EBS Volume Types.md",
+    "notes/03- EC2 Storage/03.06- EBS - General Purpose SSD.md",
+    "notes/03- EC2 Storage/03.07- EBS Provisions IOPS SSD.md",
+    "notes/03- EC2 Storage/03.08- EBS Hard Disk Drives.md",
+    "notes/03- EC2 Storage/03.02- EBS Delete on Termination.md",
+    "notes/08- Route 53/08.03- Hosted Zones.md",
+    "notes/08- Route 53/08.12- I.P. Based Routing.md",
+    "notes/08- Route 53/08.11- GeoProximity Routing.md",
+    "notes/08- Route 53/08.02- Record Types.md",
+    "notes/08- Route 53/08.01- Route 53.md",
+    "notes/26- Comparing DBs on AWS/26.07- AWS Glue.md",
+    "notes/10- S3/10.12- S3 Encryption.md",
+    "notes/30- Security/30.10- WAF.md",
+    "notes/06- RDS/06.05- RDS Multi AZ.md",
+    "notes/06- RDS/06.18- RDS Proxy.md",
+    "notes/06- RDS/06.17- RDS Security.md",
+    "notes/06- RDS/06.13- RDS Backups.md",
+    "notes/06- RDS/06.06-  RDS Custom.md",
+    "notes/06- RDS/06.04- RDS Read Replica Cost.md",
+    "notes/06- RDS/06.03- RDS Read Replicas.md",
+    "notes/02- EC2/02.02- EC2 User Data.md",
+    "notes/02- EC2/02.04- Security Groups.md",
+    "notes/0- Misc/0.1- Public vs Private vs ELastic IP.md",
+    "notes/02- EC2/02.12- Instance Metadata.md",
+    "img/Pasted_image_20240518152729.png",
+    "Pasted image 20240518153143.png",
     "img/Pasted_image_20240517125536.png",
     "img/Pasted_image_20240516151639.png",
     "img/Pasted_image_20240516145729.png",
